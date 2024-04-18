@@ -1,0 +1,75 @@
+{
+  "md5": "cc6a9",
+  "versionDev": "1.0.2",
+  "sharpMd5": "8c10c",
+  "result": {
+    "atlases": [
+      {
+        "spriteFrameInfos": [
+          {
+            "name": "bg",
+            "uuid": "10f11eb3-af7d-4f1f-9f39-bb388bd3a545@f9941",
+            "imageUuid": "10f11eb3-af7d-4f1f-9f39-bb388bd3a545",
+            "textureUuid": "10f11eb3-af7d-4f1f-9f39-bb388bd3a545@6c48a",
+            "trim": {
+              "rotatedWidth": 50,
+              "rotatedHeight": 134,
+              "x": 3,
+              "y": 3,
+              "width": 134,
+              "height": 50
+            },
+            "rawWidth": 134,
+            "rawHeight": 50,
+            "width": 140,
+            "height": 56,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\10\\10f11eb3-af7d-4f1f-9f39-bb388bd3a545.png",
+            "rotated": true,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 56,
+            "rotatedHeight": 140
+          },
+          {
+            "name": "coin",
+            "uuid": "c5557264-c242-4748-8d74-294923b00510@f9941",
+            "imageUuid": "c5557264-c242-4748-8d74-294923b00510",
+            "textureUuid": "c5557264-c242-4748-8d74-294923b00510@6c48a",
+            "trim": {
+              "rotatedWidth": 92,
+              "rotatedHeight": 93,
+              "x": 3,
+              "y": 143,
+              "width": 92,
+              "height": 93
+            },
+            "rawWidth": 96,
+            "rawHeight": 96,
+            "width": 98,
+            "height": 99,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\c5\\c5557264-c242-4748-8d74-294923b00510.png",
+            "rotated": false,
+            "x": 0,
+            "y": 140,
+            "rotatedWidth": 98,
+            "rotatedHeight": 99
+          }
+        ],
+        "width": 98,
+        "height": 239,
+        "name": "auto-atlas.pac-0",
+        "imagePath": "D:\\MyCoding\\Cosos\\coinGame\\temp\\asset-db\\assets\\04\\04861ff0-b758-4fc6-8885-3b6d900a0819\\build1.0.1\\build\\texture-packer\\build\\1f8a9f690.png",
+        "imageUuid": "1f8a9f690",
+        "textureUuid": "1f8a9f690@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        }
+      }
+    ],
+    "unpackedImages": [],
+    "pacUuid": "04861ff0-b758-4fc6-8885-3b6d900a0819"
+  }
+}

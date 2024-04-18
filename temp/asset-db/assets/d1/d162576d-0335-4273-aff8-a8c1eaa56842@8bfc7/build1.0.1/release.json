@@ -1,0 +1,124 @@
+[
+    1,
+    [
+        "96gLfL0blHPJ34SPh/f2Vc@6c48a",
+        "3cfLjq4O9HQI1ntwcGHv21"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            1,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                }
+            ],
+            [
+                {},
+                {
+                    "USE_ALBEDO_MAP": true
+                },
+                {}
+            ],
+            [
+                [
+                    [
+                        {
+                            "lineWidth": 2.18
+                        },
+                        "baseColor",
+                        8,
+                        [
+                            4,
+                            4284572001
+                        ]
+                    ],
+                    [
+                        {},
+                        "rimLightColor",
+                        8,
+                        [
+                            4,
+                            369098751
+                        ],
+                        "shadeColor",
+                        8,
+                        [
+                            4,
+                            726223177
+                        ],
+                        "mainTexture",
+                        6,
+                        0
+                    ],
+                    {}
+                ],
+                11,
+                11,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

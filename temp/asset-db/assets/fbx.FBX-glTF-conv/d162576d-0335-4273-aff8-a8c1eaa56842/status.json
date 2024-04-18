@@ -1,0 +1,16 @@
+{
+  "version": "2.3.8",
+  "sourceTimeStamp": 1713364906111.5164,
+  "outputTimeStamps": {
+    "log.json": 1713364978153.3452,
+    "out.bin": 1713364978148.3557,
+    "out.gltf": 1713364978152.3425,
+    "toufa.png": 1713364906116.4556,
+    "yifu.png": 1713364906118.5435,
+    "shenti.png": 1713364906115.459
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": false
+  }
+}

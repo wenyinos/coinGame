@@ -1,0 +1,219 @@
+{
+  "md5": "b22de",
+  "versionDev": "1.0.2",
+  "sharpMd5": "8c10c",
+  "result": {
+    "atlases": [
+      {
+        "spriteFrameInfos": [
+          {
+            "name": "2",
+            "uuid": "bd9a1cac-b40c-46a5-ad5f-5bf72d270815@f9941",
+            "imageUuid": "bd9a1cac-b40c-46a5-ad5f-5bf72d270815",
+            "textureUuid": "bd9a1cac-b40c-46a5-ad5f-5bf72d270815@6c48a",
+            "trim": {
+              "rotatedWidth": 100,
+              "rotatedHeight": 172,
+              "x": 3,
+              "y": 3,
+              "width": 100,
+              "height": 172
+            },
+            "rawWidth": 100,
+            "rawHeight": 172,
+            "width": 106,
+            "height": 178,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\bd\\bd9a1cac-b40c-46a5-ad5f-5bf72d270815.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 106,
+            "rotatedHeight": 178
+          },
+          {
+            "name": "4",
+            "uuid": "242d8671-904b-4ce1-b13c-c3fdd754d1b5@f9941",
+            "imageUuid": "242d8671-904b-4ce1-b13c-c3fdd754d1b5",
+            "textureUuid": "242d8671-904b-4ce1-b13c-c3fdd754d1b5@6c48a",
+            "trim": {
+              "rotatedWidth": 96,
+              "rotatedHeight": 170,
+              "x": 3,
+              "y": 181,
+              "width": 96,
+              "height": 170
+            },
+            "rawWidth": 96,
+            "rawHeight": 170,
+            "width": 102,
+            "height": 176,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\24\\242d8671-904b-4ce1-b13c-c3fdd754d1b5.png",
+            "rotated": false,
+            "x": 0,
+            "y": 178,
+            "rotatedWidth": 102,
+            "rotatedHeight": 176
+          },
+          {
+            "name": "3",
+            "uuid": "be53c6c5-30f1-476b-a9ac-8dddbbbebe3f@f9941",
+            "imageUuid": "be53c6c5-30f1-476b-a9ac-8dddbbbebe3f",
+            "textureUuid": "be53c6c5-30f1-476b-a9ac-8dddbbbebe3f@6c48a",
+            "trim": {
+              "rotatedWidth": 96,
+              "rotatedHeight": 142,
+              "x": 3,
+              "y": 357,
+              "width": 96,
+              "height": 142
+            },
+            "rawWidth": 96,
+            "rawHeight": 142,
+            "width": 102,
+            "height": 148,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\be\\be53c6c5-30f1-476b-a9ac-8dddbbbebe3f.png",
+            "rotated": false,
+            "x": 0,
+            "y": 354,
+            "rotatedWidth": 102,
+            "rotatedHeight": 148
+          },
+          {
+            "name": "1",
+            "uuid": "02b18265-1f55-46c5-b0c5-0ca17d4c1f41@f9941",
+            "imageUuid": "02b18265-1f55-46c5-b0c5-0ca17d4c1f41",
+            "textureUuid": "02b18265-1f55-46c5-b0c5-0ca17d4c1f41@6c48a",
+            "trim": {
+              "rotatedWidth": 74,
+              "rotatedHeight": 173,
+              "x": 3,
+              "y": 505,
+              "width": 74,
+              "height": 173
+            },
+            "rawWidth": 74,
+            "rawHeight": 173,
+            "width": 80,
+            "height": 179,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\02\\02b18265-1f55-46c5-b0c5-0ca17d4c1f41.png",
+            "rotated": false,
+            "x": 0,
+            "y": 502,
+            "rotatedWidth": 80,
+            "rotatedHeight": 179
+          },
+          {
+            "name": "loadfill",
+            "uuid": "d19b167e-126e-43b4-b3c8-1adaabd482f5@f9941",
+            "imageUuid": "d19b167e-126e-43b4-b3c8-1adaabd482f5",
+            "textureUuid": "d19b167e-126e-43b4-b3c8-1adaabd482f5@6c48a",
+            "trim": {
+              "rotatedWidth": 7,
+              "rotatedHeight": 500,
+              "x": 83,
+              "y": 505,
+              "width": 500,
+              "height": 7
+            },
+            "rawWidth": 500,
+            "rawHeight": 7,
+            "width": 506,
+            "height": 13,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\d1\\d19b167e-126e-43b4-b3c8-1adaabd482f5.png",
+            "rotated": true,
+            "x": 80,
+            "y": 502,
+            "rotatedWidth": 13,
+            "rotatedHeight": 506
+          },
+          {
+            "name": "other",
+            "uuid": "04e76d61-7319-403e-a394-6b57083b5ca4@f9941",
+            "imageUuid": "04e76d61-7319-403e-a394-6b57083b5ca4",
+            "textureUuid": "04e76d61-7319-403e-a394-6b57083b5ca4@6c48a",
+            "trim": {
+              "rotatedWidth": 69,
+              "rotatedHeight": 148,
+              "x": 3,
+              "y": 684,
+              "width": 69,
+              "height": 148
+            },
+            "rawWidth": 69,
+            "rawHeight": 148,
+            "width": 75,
+            "height": 154,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\04\\04e76d61-7319-403e-a394-6b57083b5ca4.png",
+            "rotated": false,
+            "x": 0,
+            "y": 681,
+            "rotatedWidth": 75,
+            "rotatedHeight": 154
+          },
+          {
+            "name": "cadpa",
+            "uuid": "7d7aa050-71be-4e32-b470-45b830efc061@f9941",
+            "imageUuid": "7d7aa050-71be-4e32-b470-45b830efc061",
+            "textureUuid": "7d7aa050-71be-4e32-b470-45b830efc061@6c48a",
+            "trim": {
+              "rotatedWidth": 61,
+              "rotatedHeight": 80,
+              "x": 3,
+              "y": 838,
+              "width": 61,
+              "height": 80
+            },
+            "rawWidth": 61,
+            "rawHeight": 80,
+            "width": 67,
+            "height": 86,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\7d\\7d7aa050-71be-4e32-b470-45b830efc061.png",
+            "rotated": false,
+            "x": 0,
+            "y": 835,
+            "rotatedWidth": 67,
+            "rotatedHeight": 86
+          },
+          {
+            "name": "loadbg",
+            "uuid": "97462bbe-8ae2-4d0e-8bf0-6a15190e1468@f9941",
+            "imageUuid": "97462bbe-8ae2-4d0e-8bf0-6a15190e1468",
+            "textureUuid": "97462bbe-8ae2-4d0e-8bf0-6a15190e1468@6c48a",
+            "trim": {
+              "rotatedWidth": 17,
+              "rotatedHeight": 92,
+              "x": 3,
+              "y": 924,
+              "width": 92,
+              "height": 17
+            },
+            "rawWidth": 97,
+            "rawHeight": 21,
+            "width": 98,
+            "height": 23,
+            "originalPath": "D:\\MyCoding\\Cosos\\coinGame\\library\\97\\97462bbe-8ae2-4d0e-8bf0-6a15190e1468.png",
+            "rotated": true,
+            "x": 0,
+            "y": 921,
+            "rotatedWidth": 23,
+            "rotatedHeight": 98
+          }
+        ],
+        "width": 106,
+        "height": 1019,
+        "name": "auto-atlas.pac-0",
+        "imagePath": "D:\\MyCoding\\Cosos\\coinGame\\temp\\asset-db\\assets\\dc\\dc3d1030-0323-4bcd-a894-104d82278412\\build1.0.1\\build\\texture-packer\\build\\1dec81510.png",
+        "imageUuid": "1dec81510",
+        "textureUuid": "1dec81510@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        }
+      }
+    ],
+    "unpackedImages": [],
+    "pacUuid": "dc3d1030-0323-4bcd-a894-104d82278412"
+  }
+}

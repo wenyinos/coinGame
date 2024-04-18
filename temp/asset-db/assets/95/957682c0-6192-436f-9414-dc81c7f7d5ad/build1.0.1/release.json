@@ -1,0 +1,133 @@
+[
+    1,
+    [
+        "26SNNAXAhJyqX8Sl0XRRUW@6c48a",
+        "3cfLjq4O9HQI1ntwcGHv21"
+    ],
+    [
+        "emissiveMap",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "plane",
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                }
+            ],
+            [
+                {},
+                {
+                    "USE_EMISSIVE_MAP": true
+                },
+                {}
+            ],
+            [
+                [
+                    {
+                        "lineWidth": 0.0001
+                    },
+                    [
+                        {
+                            "diffuseWrap": 0.78
+                        },
+                        "mainColor",
+                        8,
+                        [
+                            4,
+                            4280947491
+                        ],
+                        "rimLightColor",
+                        8,
+                        [
+                            4,
+                            728139379
+                        ],
+                        "shadeColor",
+                        8,
+                        [
+                            4,
+                            771751935
+                        ],
+                        "emissive",
+                        8,
+                        [
+                            4,
+                            4285136871
+                        ],
+                        "emissiveMap",
+                        6,
+                        0
+                    ],
+                    {}
+                ],
+                0,
+                11,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

@@ -1,0 +1,1422 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001/translation/Output",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001/translation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1,
+      "name": "Bip001 Pelvis/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        1.0666667222976685
+      ],
+      "name": "Bip001 Pelvis/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 1,
+      "name": "Bip001 Spine/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        1.0666667222976685
+      ],
+      "name": "Bip001 Spine/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 Spine1/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 Spine1/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 Neck/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 Neck/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 L Clavicle/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 L Clavicle/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 L UpperArm/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 L UpperArm/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 L Forearm/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 L Forearm/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 L Hand/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 L Hand/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 R Clavicle/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 R Clavicle/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 R UpperArm/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 R UpperArm/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 R Forearm/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 R Forearm/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 R Hand/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 R Hand/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 L Thigh/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 L Thigh/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 L Calf/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 31,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 L Calf/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 32,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 L Foot/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 33,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 L Foot/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 R Thigh/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 35,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 R Thigh/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 36,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 R Calf/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 37,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 R Calf/rotation/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 33,
+      "name": "Bip001 R Foot/rotation/Output",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 39,
+      "componentType": 5126,
+      "count": 33,
+      "max": [
+        1.0666667222976685
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "Bip001 R Foot/rotation/Input",
+      "type": "SCALAR"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 1,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 3,
+          "target": {
+            "node": 2,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 4,
+          "target": {
+            "node": 3,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 5,
+          "target": {
+            "node": 4,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 6,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 7,
+          "target": {
+            "node": 6,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 8,
+          "target": {
+            "node": 7,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 9,
+          "target": {
+            "node": 8,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 10,
+          "target": {
+            "node": 10,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 11,
+          "target": {
+            "node": 11,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 12,
+          "target": {
+            "node": 12,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 13,
+          "target": {
+            "node": 13,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 14,
+          "target": {
+            "node": 16,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 15,
+          "target": {
+            "node": 17,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 16,
+          "target": {
+            "node": 18,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 17,
+          "target": {
+            "node": 20,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 18,
+          "target": {
+            "node": 21,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 19,
+          "target": {
+            "node": 22,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "mixamo.com",
+      "samplers": [
+        {
+          "input": 1,
+          "output": 0
+        },
+        {
+          "input": 3,
+          "output": 2
+        },
+        {
+          "input": 5,
+          "output": 4
+        },
+        {
+          "input": 7,
+          "output": 6
+        },
+        {
+          "input": 9,
+          "output": 8
+        },
+        {
+          "input": 11,
+          "output": 10
+        },
+        {
+          "input": 13,
+          "output": 12
+        },
+        {
+          "input": 15,
+          "output": 14
+        },
+        {
+          "input": 17,
+          "output": 16
+        },
+        {
+          "input": 19,
+          "output": 18
+        },
+        {
+          "input": 21,
+          "output": 20
+        },
+        {
+          "input": 23,
+          "output": 22
+        },
+        {
+          "input": 25,
+          "output": 24
+        },
+        {
+          "input": 27,
+          "output": 26
+        },
+        {
+          "input": 29,
+          "output": 28
+        },
+        {
+          "input": 31,
+          "output": 30
+        },
+        {
+          "input": 33,
+          "output": 32
+        },
+        {
+          "input": 35,
+          "output": 34
+        },
+        {
+          "input": 37,
+          "output": 36
+        },
+        {
+          "input": 39,
+          "output": 38
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 396
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 396
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 528
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 1056
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16,
+      "byteOffset": 1188
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4,
+      "byteOffset": 1204
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16,
+      "byteOffset": 1208
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4,
+      "byteOffset": 1224
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 1228
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 1756
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 1888
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 2416
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 2548
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 3076
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 3208
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 3736
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 3868
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 4396
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 4528
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 5056
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 5188
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 5716
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 5848
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 6376
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 6508
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 7036
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 7168
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 7696
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 7828
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 8356
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 8488
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 9016
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 9148
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 9676
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 9808
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 10336
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 10468
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 10996
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 11128
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132,
+      "byteOffset": 11656
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 11788,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 29,
+          "hour": 4,
+          "millisecond": 0,
+          "minute": 23,
+          "month": 12,
+          "second": 41,
+          "year": 2022
+        },
+        "creator": "FBX SDK/FBX Plugins version 2020.2",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "mixamo.com",
+            "applicationVendor": "Mixamo, Inc.",
+            "applicationVersion": "$URL$ fb3fcc8",
+            "fileName": "MotionOnlyScene; Retargeted Clip; Motion Sequence; 1 motions; Skeleton Bip001"
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Spinning.fbx"
+        }
+      }
+    }
+  },
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001",
+      "rotation": [
+        -0.5000004172325134,
+        -0.4999995529651642,
+        -0.4999995529651642,
+        0.5000004172325134
+      ],
+      "translation": [
+        0.0,
+        0.4448409676551819,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 Pelvis",
+      "rotation": [
+        -0.4999995529651642,
+        -0.5000004172325134,
+        -0.4999995529651642,
+        0.5000004172325134
+      ]
+    },
+    {
+      "children": [
+        3,
+        16,
+        20
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 Spine",
+      "rotation": [
+        -1.744981886986352e-06,
+        -8.733590561860183e-07,
+        0.00039793504402041435,
+        0.9999999403953552
+      ],
+      "translation": [
+        0.10100000351667404,
+        -9.999999747378752e-05,
+        1.8470906924813822e-26
+      ]
+    },
+    {
+      "children": [
+        4
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 Spine1",
+      "translation": [
+        0.13760000467300415,
+        -9.999999747378752e-05,
+        -4.235164736271502e-22
+      ]
+    },
+    {
+      "children": [
+        5,
+        10,
+        15
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 Neck",
+      "translation": [
+        0.1216999962925911,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        6
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Clavicle",
+      "rotation": [
+        0.7358464598655701,
+        -0.00029281916795298457,
+        0.6771483421325684,
+        0.00026946113212034106
+      ],
+      "translation": [
+        -0.043299999088048935,
+        9.999999747378752e-05,
+        0.125
+      ]
+    },
+    {
+      "children": [
+        7
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L UpperArm",
+      "rotation": [
+        0.004981588572263718,
+        0.041504453867673874,
+        -0.00020693970145657659,
+        0.9991258978843689
+      ],
+      "translation": [
+        0.06310000270605087,
+        0.0,
+        1.1102230246251565e-16
+      ]
+    },
+    {
+      "children": [
+        8
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Forearm",
+      "translation": [
+        0.14560000598430634,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        9
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Hand",
+      "rotation": [
+        -0.706825315952301,
+        2.927729429575382e-32,
+        -5.595187071337035e-33,
+        0.7073881030082703
+      ],
+      "translation": [
+        0.12349999696016312,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Finger0",
+      "rotation": [
+        -0.0003979350731242448,
+        2.464071258193679e-32,
+        2.812838374967538e-32,
+        0.9999999403953552
+      ],
+      "translation": [
+        0.06069999933242798,
+        0.0,
+        -1.734723475976807e-18
+      ]
+    },
+    {
+      "children": [
+        11
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Clavicle",
+      "rotation": [
+        0.7358428835868835,
+        -0.0002928176836576313,
+        -0.677152156829834,
+        -0.00026946255820803344
+      ],
+      "translation": [
+        -0.043299999088048935,
+        9.999999747378752e-05,
+        -0.125
+      ]
+    },
+    {
+      "children": [
+        12
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R UpperArm",
+      "rotation": [
+        -0.00498158996924758,
+        -0.04150098189711571,
+        -0.0002069210313493386,
+        0.9991260170936584
+      ],
+      "translation": [
+        0.06310000270605087,
+        0.0,
+        1.1102230246251565e-16
+      ]
+    },
+    {
+      "children": [
+        13
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Forearm",
+      "translation": [
+        0.14560000598430634,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        14
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Hand",
+      "rotation": [
+        0.706825315952301,
+        1.5432750047432465e-18,
+        -1.5475861046597504e-16,
+        0.7073881030082703
+      ],
+      "translation": [
+        0.12349999696016312,
+        -8.673617379884035e-19,
+        0.0
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Finger0",
+      "rotation": [
+        0.0003979350731242448,
+        -6.934154252297457e-23,
+        -7.466766176181248e-25,
+        0.9999999403953552
+      ],
+      "translation": [
+        0.06069999933242798,
+        1.1102230246251565e-16,
+        1.734723475976807e-18
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 Head",
+      "rotation": [
+        -1.2674112236532208e-20,
+        -2.7347437618661255e-20,
+        -0.0003988077223766595,
+        0.9999999403953552
+      ],
+      "translation": [
+        0.04430000111460686,
+        -1.0842021724855044e-19,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        17
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Thigh",
+      "rotation": [
+        0.0046279351226985455,
+        0.9999892711639404,
+        -6.803112773923203e-05,
+        -6.378086254699156e-07
+      ],
+      "translation": [
+        -0.10100000351667404,
+        0.00019999999494757503,
+        0.15780000388622284
+      ]
+    },
+    {
+      "children": [
+        18
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Calf",
+      "rotation": [
+        9.540256575607374e-19,
+        -9.261803799979414e-19,
+        -0.008898443542420864,
+        0.9999604225158691
+      ],
+      "translation": [
+        0.2078000009059906,
+        -4.336808689942018e-19,
+        2.7755575615628914e-17
+      ]
+    },
+    {
+      "children": [
+        19
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Foot",
+      "rotation": [
+        -6.946673238417134e-05,
+        -1.541208121125237e-06,
+        0.004668960813432932,
+        0.9999890923500061
+      ],
+      "translation": [
+        0.1736000031232834,
+        -1.0842021724855044e-19,
+        -2.7755575615628914e-17
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 L Toe0",
+      "rotation": [
+        -9.200990019011913e-17,
+        1.8719638238195626e-17,
+        0.7071067690849304,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.055799998342990875,
+        0.07180000096559525,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        21
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Thigh",
+      "rotation": [
+        0.004628773778676987,
+        0.9999892711639404,
+        7.127065327949822e-05,
+        -1.1214981441298733e-06
+      ],
+      "translation": [
+        -0.10100000351667404,
+        0.00019999999494757503,
+        -0.15780000388622284
+      ]
+    },
+    {
+      "children": [
+        22
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Calf",
+      "rotation": [
+        -3.867536720731497e-19,
+        7.062950419672445e-19,
+        -0.008898443542420864,
+        0.9999604225158691
+      ],
+      "translation": [
+        0.2078000009059906,
+        -4.336808689942018e-19,
+        -2.7755575615628914e-17
+      ]
+    },
+    {
+      "children": [
+        23
+      ],
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Foot",
+      "rotation": [
+        6.937022408237681e-05,
+        -2.356663344471599e-07,
+        0.004668018314987421,
+        0.9999890923500061
+      ],
+      "translation": [
+        0.1736000031232834,
+        3.2526065174565133e-19,
+        0.0
+      ]
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "skeleton": {
+            "skeletonType": "LimbNode"
+          }
+        }
+      },
+      "name": "Bip001 R Toe0",
+      "rotation": [
+        6.766631886981835e-17,
+        -1.6988725417864728e-16,
+        0.7071067690849304,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.055799998342990875,
+        0.07180000096559525,
+        2.7755575615628914e-17
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

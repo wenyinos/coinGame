@@ -1,0 +1,130 @@
+[
+    1,
+    [
+        "8b0f0Z7ElC0IGsm43kJHU0@6c48a",
+        "3cfLjq4O9HQI1ntwcGHv21"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            1,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                }
+            ],
+            [
+                {
+                    "USE_OUTLINE_PASS": true
+                },
+                {
+                    "USE_RIM_LIGHT": true,
+                    "USE_ALBEDO_MAP": true,
+                    "USE_SHADE_COLOR": true
+                },
+                {}
+            ],
+            [
+                [
+                    [
+                        {
+                            "lineWidth": 5.84
+                        },
+                        "baseColor",
+                        8,
+                        [
+                            4,
+                            4285098345
+                        ]
+                    ],
+                    [
+                        {
+                            "diffuseWrap": 0.745
+                        },
+                        "rimLightColor",
+                        8,
+                        [
+                            4,
+                            1191182335
+                        ],
+                        "shadeColor",
+                        8,
+                        [
+                            4,
+                            2653037090
+                        ],
+                        "mainTexture",
+                        6,
+                        0
+                    ],
+                    {}
+                ],
+                11,
+                11,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

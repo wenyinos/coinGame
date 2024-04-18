@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "basketball",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 76,
+      "height": 42
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 76,
+      "height": 42
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -38,
+        -21,
+        0,
+        38,
+        -21,
+        0,
+        -38,
+        21,
+        0,
+        38,
+        21,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        42,
+        76,
+        42,
+        0,
+        0,
+        76,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -38,
+        "y": -21,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 38,
+        "y": 21,
+        "z": 0
+      }
+    },
+    "texture": "cc63cd66-60a1-4ee5-8700-3b556d6142c2@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,602 @@
+2024-4-18 08:59:17-log: Cannot access game frame or container.
+2024-4-18 08:59:17-debug: asset-db:require-engine-code (1222ms)
+2024-4-18 08:59:18-log: Cocos Creator v3.8.0
+2024-4-18 08:59:18-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:20.10MB, end 99.29MB, increase: 79.18MB
+2024-4-18 08:59:18-debug: asset-db:worker-init: initPlugin (361ms)
+2024-4-18 08:59:18-debug: [Assets Memory track]: asset-db:worker-init start:20.10MB, end 93.52MB, increase: 73.42MB
+2024-4-18 08:59:18-debug: Run asset db hook programming:beforePreStart ...
+2024-4-18 08:59:18-debug: Run asset db hook programming:beforePreStart success!
+2024-4-18 08:59:18-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-4-18 08:59:18-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-4-18 08:59:19-debug: asset-db-hook-programming-beforePreStart (917ms)
+2024-4-18 08:59:19-debug: asset-db-hook-engine-extends-beforePreStart (916ms)
+2024-4-18 08:59:19-debug: asset-db:worker-init (2860ms)
+2024-4-18 08:59:19-debug: Preimport db internal success
+2024-4-18 08:59:19-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\kunbackground: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:19-debug: Preimport db assets success
+2024-4-18 08:59:19-debug: Run asset db hook programming:afterPreStart ...
+2024-4-18 08:59:27-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:110.56MB, end 293.49MB, increase: 182.92MB
+2024-4-18 08:59:22-debug: run package(builder) handler(enable) start
+2024-4-18 08:59:27-debug: run package(builder) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(shortcuts) handler(enable) start
+2024-4-18 08:59:27-debug: run package(animation-graph) handler(enable) start
+2024-4-18 08:59:27-debug: run package(animation-graph) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(about) handler(enable) start
+2024-4-18 08:59:27-debug: run package(about) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(assets) handler(enable) start
+2024-4-18 08:59:27-debug: run package(assets) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(console) handler(enable) start
+2024-4-18 08:59:27-debug: run package(console) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(crash-reporter) handler(enable) start
+2024-4-18 08:59:27-debug: run package(crash-reporter) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(extension) handler(enable) start
+2024-4-18 08:59:27-debug: run package(extension) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(hierarchy) handler(enable) start
+2024-4-18 08:59:27-debug: run package(hierarchy) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(inspector) handler(enable) start
+2024-4-18 08:59:27-debug: run package(inspector) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(light-probe) handler(enable) start
+2024-4-18 08:59:27-debug: run package(light-probe) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(lightmap) handler(enable) start
+2024-4-18 08:59:27-debug: run package(lightmap) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(node-library) handler(enable) start
+2024-4-18 08:59:27-debug: run package(node-library) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(package-asset) handler(enable) start
+2024-4-18 08:59:27-debug: run package(package-asset) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(process) handler(enable) start
+2024-4-18 08:59:27-debug: run package(process) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(reference-image) handler(enable) start
+2024-4-18 08:59:27-debug: run package(reference-image) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(reflection-probe) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(engine-extends) handler(enable) start
+2024-4-18 08:59:27-debug: run package(engine-extends) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(adsense-h5g-plugin) handler(enable) start
+2024-4-18 08:59:27-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(alipay-mini-game) handler(enable) start
+2024-4-18 08:59:27-debug: run package(alipay-mini-game) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(android) handler(enable) start
+2024-4-18 08:59:27-debug: run package(android) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(bytedance-mini-game) handler(enable) start
+2024-4-18 08:59:27-debug: run package(bytedance-mini-game) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(certificate) handler(enable) start
+2024-4-18 08:59:27-debug: run package(certificate) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(channel-upload-tools) handler(enable) start
+2024-4-18 08:59:27-debug: run package(channel-upload-tools) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(fb-instant-games) handler(enable) start
+2024-4-18 08:59:27-debug: run package(fb-instant-games) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(huawei-agc) handler(enable) start
+2024-4-18 08:59:27-debug: run package(huawei-agc) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(huawei-quick-game) handler(enable) start
+2024-4-18 08:59:27-debug: run package(huawei-quick-game) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(ios) handler(enable) start
+2024-4-18 08:59:27-debug: run package(ios) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(linux) handler(enable) start
+2024-4-18 08:59:27-debug: run package(linux) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(mac) handler(enable) start
+2024-4-18 08:59:27-debug: run package(mac) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(reflection-probe) handler(enable) start
+2024-4-18 08:59:27-debug: run package(native) handler(enable) start
+2024-4-18 08:59:27-debug: run package(native) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(ohos) handler(enable) start
+2024-4-18 08:59:27-debug: run package(ohos) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(shortcuts) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(openharmony) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(oppo-mini-game) handler(enable) start
+2024-4-18 08:59:27-debug: run package(oppo-mini-game) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(runtime-dev-tools) handler(enable) start
+2024-4-18 08:59:27-debug: run package(taobao-creative-app) handler(enable) start
+2024-4-18 08:59:27-debug: run package(runtime-dev-tools) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(taobao-creative-app) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(taobao-mini-game) handler(enable) start
+2024-4-18 08:59:27-debug: run package(vivo-mini-game) handler(enable) start
+2024-4-18 08:59:27-debug: run package(taobao-mini-game) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(vivo-mini-game) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(web-desktop) handler(enable) start
+2024-4-18 08:59:27-debug: run package(web-desktop) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(web-mobile) handler(enable) start
+2024-4-18 08:59:27-debug: run package(web-mobile) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(openharmony) handler(enable) start
+2024-4-18 08:59:27-debug: run package(wechatgame) handler(enable) start
+2024-4-18 08:59:27-debug: run package(wechatgame) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(wechatprogram) handler(enable) start
+2024-4-18 08:59:27-debug: run package(windows) handler(enable) start
+2024-4-18 08:59:27-debug: run package(windows) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-4-18 08:59:27-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(cocos-service) handler(enable) start
+2024-4-18 08:59:27-debug: run package(wechatprogram) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(im-plugin) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(prefab380fix) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(prefab380fix) handler(enable) start
+2024-4-18 08:59:27-debug: run package(placeholder) handler(enable) start
+2024-4-18 08:59:27-debug: run package(placeholder) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(cocos-service) handler(enable) success!
+2024-4-18 08:59:27-debug: run package(im-plugin) handler(enable) start
+2024-4-18 08:59:28-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-4-18 08:59:28-debug: Run asset db hook programming:afterPreStart success!
+2024-4-18 08:59:28-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-4-18 08:59:28-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-4-18 08:59:28-debug: [Assets Memory track]: asset-db:worker-init: preStart start:93.53MB, end 290.75MB, increase: 197.23MB
+2024-4-18 08:59:28-debug: Start up the 'internal' database...
+2024-4-18 08:59:28-debug: asset-db-hook-programming-afterPreStart (8632ms)
+2024-4-18 08:59:28-debug: asset-db:worker-effect-data-processing (92ms)
+2024-4-18 08:59:28-debug: asset-db-hook-engine-extends-afterPreStart (92ms)
+2024-4-18 08:59:28-debug: start asset-db with asset: 459
+2024-4-18 08:59:28-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:106.91MB, end 294.74MB, increase: 187.82MB
+2024-4-18 08:59:28-debug: Start up the 'assets' database...
+2024-4-18 08:59:28-debug: asset-db:worker-startup-database[internal] (9080ms)
+2024-4-18 08:59:28-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\kun\other.png~background: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:28-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\loginBG.jpgbackground: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:28-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\kun\other.pngbackground: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:28-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\loginBG.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:28-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\loginBG.jpg@f9941background: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:28-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\kun\other.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:28-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\kun\other.png@f9941background: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:28-debug: start asset-db with asset: 112
+2024-4-18 08:59:28-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:108.82MB, end 290.64MB, increase: 181.82MB
+2024-4-18 08:59:28-debug: asset-db:worker-startup-database[assets] (8902ms)
+2024-4-18 08:59:28-debug: asset-db:start-database (9899ms)
+2024-4-18 08:59:28-debug: asset-db:ready (16510ms)
+2024-4-18 08:59:28-debug: init worker message success
+2024-4-18 08:59:29-debug: [Build Memory track]: builder:worker-init start:295.40MB, end 303.49MB, increase: 8.09MB
+2024-4-18 08:59:29-debug: programming:execute-script (577ms)
+2024-4-18 08:59:29-debug: builder:worker-init (554ms)
+2024-4-18 08:59:30-debug: programming:execute-script (1ms)
+2024-4-18 08:59:43-debug: refresh db internal success
+2024-4-18 08:59:43-debug: %cImport%c: D:\MyCoding\Cosos\coinGame\assets\res\loading\kunbackground: #aaff85; color: #000;color: #000;
+2024-4-18 08:59:43-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-4-18 08:59:43-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-4-18 08:59:43-debug: refresh db assets success
+2024-4-18 08:59:43-debug: asset-db:refresh-all-database (178ms)
+2024-4-18 08:59:43-debug: asset-db-hook-engine-extends-afterRefresh (-6ms)
+2024-4-18 08:59:43-debug: asset-db:worker-effect-data-processing (-6ms)
+2024-4-18 09:00:03-debug: Start record console... {file(D:\MyCoding\Cosos\coinGame\temp\builder\log\web-mobile2024-4-18 09-00.log)}
+2024-4-18 09:00:03-debug: =================================== build Task (web-mobile) Start ================================
+2024-4-18 09:00:03-debug: Start build task, options:{"name":"reflection","server":"","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":true},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"0809c820-010a-4dc6-9ac1-03b933e9d3be","outputName":"web-mobile","taskName":"web-mobile","scenes":[{"url":"db://assets/game-scene.scene","uuid":"0809c820-010a-4dc6-9ac1-03b933e9d3be"}],"packages":{"web-mobile":{"orientation":"auto","embedWebDebugger":false,"cullEngineAsmJsModule":false,"__version__":"1.0.1"},"engine":{"cleanupImageCache":"inheritProjectSetting","__version__":"1.0.7"},"cocos-service":{"configID":"0bc708","services":[]}},"__version__":"1.3.6","buildMode":"normal","logDest":"project://temp/builder/log/web-mobile2024-4-18 09-00.log"}
+2024-4-18 09:00:03-debug: Build with Cocos Creator 3.8.0
+2024-4-18 09:00:03-debug: cocos-service:(onBeforeBuild) start...0%
+2024-4-18 09:00:03-debug: // ---- build task cocos-service：onBeforeBuild ----
+2024-4-18 09:00:03-debug: // ---- build task cocos-service：onBeforeBuild ---- (419ms)
+2024-4-18 09:00:03-debug: cocos-service:(onBeforeBuild) in 419 ms ✓2%
+2024-4-18 09:00:03-debug: scene:(onBeforeBuild) start...2%
+2024-4-18 09:00:03-debug: // ---- build task scene：onBeforeBuild ----
+2024-4-18 09:00:03-debug: // ---- build task scene：onBeforeBuild ---- (17ms)
+2024-4-18 09:00:03-debug: scene:(onBeforeBuild) in 17 ms ✓4%
+2024-4-18 09:00:03-debug: Start lock asset db...4%
+2024-4-18 09:00:03-log: Asset DB is paused with build!
+2024-4-18 09:00:03-debug: Query all assets info in project
+2024-4-18 09:00:03-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-4-18 09:00:03-debug:   Number of all scenes: 1
+2024-4-18 09:00:03-debug:   Number of all scripts: 22
+2024-4-18 09:00:03-debug:   Number of other assets: 458
+2024-4-18 09:00:03-debug: web-mobile:(onAfterInit) start...4%
+2024-4-18 09:00:03-debug: // ---- build task web-mobile：onAfterInit ----
+2024-4-18 09:00:03-debug: // ---- build task web-mobile：onAfterInit ---- (9ms)
+2024-4-18 09:00:03-debug: cocos-service:(onAfterInit) start...7%
+2024-4-18 09:00:03-debug: // ---- build task cocos-service：onAfterInit ----
+2024-4-18 09:00:03-debug: web-mobile:(onAfterInit) in 9 ms ✓7%
+2024-4-18 09:00:03-debug: cocos-service:(onAfterInit) in 129 ms ✓9%
+2024-4-18 09:00:03-debug: // ---- build task cocos-service：onAfterInit ---- (129ms)
+2024-4-18 09:00:03-debug: engine:(onAfterInit) start...9%
+2024-4-18 09:00:03-debug: // ---- build task engine：onAfterInit ----
+2024-4-18 09:00:03-debug: // ---- build task engine：onAfterInit ---- (16ms)
+2024-4-18 09:00:03-debug: engine:(onAfterInit) in 16 ms ✓11%
+2024-4-18 09:00:04-debug: Init all bundles start...11%
+2024-4-18 09:00:04-debug: reload all scripts.
+2024-4-18 09:00:04-debug: Num of bundles: 3...11%
+2024-4-18 09:00:04-debug: Incremental keys: 
+2024-4-18 09:00:04-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2024-4-18 09:00:04-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\65\654ca6a8cf2986d952e8c444eb1f074fc885bcfa.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\65\654ca6a8cf2986d952e8c444eb1f074fc885bcfa.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/65/654ca6a8cf2986d952e8c444eb1f074fc885bcfa.js" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\81\81b1e924eefa6f91a2c164944994cb4a4d863a7d.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\81\81b1e924eefa6f91a2c164944994cb4a4d863a7d.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\31\3145dea4476ddf609b7b231bee5baa1b0d39b2d7.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\31\3145dea4476ddf609b7b231bee5baa1b0d39b2d7.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\00\00cded6b3ea630c7add4b7bd0ac5fd5373e806fc.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\00\00cded6b3ea630c7add4b7bd0ac5fd5373e806fc.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\c1\c1e504afe1f326d80ab1689ff7fa83c4559a2530.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\c1\c1e504afe1f326d80ab1689ff7fa83c4559a2530.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\17\1775e7a84ffe09626f371deb0e6cc1cae369a865.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\17\1775e7a84ffe09626f371deb0e6cc1cae369a865.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\17\176315284120421ef9f845d49f64f2f8fdc357ae.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\17\176315284120421ef9f845d49f64f2f8fdc357ae.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\df\df545c97f4d7992ad2287048bb95958449432ddc.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\df\df545c97f4d7992ad2287048bb95958449432ddc.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\1e\1eb89ba0bc44b374dea62254436c1c819ab80ba8.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\1e\1eb89ba0bc44b374dea62254436c1c819ab80ba8.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\33\33699fcedf5fef4242043e3d0bf66fd486d90f17.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\33\33699fcedf5fef4242043e3d0bf66fd486d90f17.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\08\088d9f75518d3e0a9ca41d3d34e5830b07327b44.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\08\088d9f75518d3e0a9ca41d3d34e5830b07327b44.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\9e\9e4798e7c2b2f9f588de6dddf097ecc68d9f0ac5.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\9e\9e4798e7c2b2f9f588de6dddf097ecc68d9f0ac5.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\a9\a9374647b408ef729b914e7a7234a7a05cf95926.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\a9\a9374647b408ef729b914e7a7234a7a05cf95926.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\46\460a13a27b88e7c1362827893d4cbef4defac7f5.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\46\460a13a27b88e7c1362827893d4cbef4defac7f5.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\41\412ce2922da41c98d7d3d41fc5a465aafe0cf0d5.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\41\412ce2922da41c98d7d3d41fc5a465aafe0cf0d5.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Register adConfig
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/c1/c1e504afe1f326d80ab1689ff7fa83c4559a2530.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register shareContent
+2024-4-18 09:00:04-debug: [[Executor]] Register shareConfig
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/9e/9e4798e7c2b2f9f588de6dddf097ecc68d9f0ac5.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/1e/1eb89ba0bc44b374dea62254436c1c819ab80ba8.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/17/1775e7a84ffe09626f371deb0e6cc1cae369a865.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/17/176315284120421ef9f845d49f64f2f8fdc357ae.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/df/df545c97f4d7992ad2287048bb95958449432ddc.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/31/3145dea4476ddf609b7b231bee5baa1b0d39b2d7.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/engine-export-to-editor/cc/editor/populate-internal-constants" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register CoinBarView
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/a9/a9374647b408ef729b914e7a7234a7a05cf95926.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register CoinView
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/46/460a13a27b88e7c1362827893d4cbef4defac7f5.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "cce:/internal/x/engine-export-to-editor/cc/editor/populate-internal-constants" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register CameraCtrl
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/08/088d9f75518d3e0a9ca41d3d34e5830b07327b44.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register PlayerCtrl
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/41/412ce2922da41c98d7d3d41fc5a465aafe0cf0d5.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register CoinMgr
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/33/33699fcedf5fef4242043e3d0bf66fd486d90f17.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register Main
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/00/00cded6b3ea630c7add4b7bd0ac5fd5373e806fc.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register LoadCtrl
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/81/81b1e924eefa6f91a2c164944994cb4a4d863a7d.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register TimeScale
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\be\be91296bf07b461458382ebd9f2fe68fce06aae2.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\be\be91296bf07b461458382ebd9f2fe68fce06aae2.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/be/be91296bf07b461458382ebd9f2fe68fce06aae2.js" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\f2\f2212bb0eb4b20bfc413c6c79e0708f508456265.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\f2\f2212bb0eb4b20bfc413c6c79e0708f508456265.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\e2\e2c383d6702adbe1a4d068e3b0d9f281e0aa678b.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\e2\e2c383d6702adbe1a4d068e3b0d9f281e0aa678b.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\45\45d6a1ff25047aa38ae9cc3a7a302afc5ca8161a.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\45\45d6a1ff25047aa38ae9cc3a7a302afc5ca8161a.js is not in module cache!
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\0c\0c0483d3a44f0c5ccd4da21970a5d93e6419eb53.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\0c\0c0483d3a44f0c5ccd4da21970a5d93e6419eb53.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Register KeyBindingView
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/0c/0c0483d3a44f0c5ccd4da21970a5d93e6419eb53.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register BaseView
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/45/45d6a1ff25047aa38ae9cc3a7a302afc5ca8161a.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register KeyConfigView
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/e2/e2c383d6702adbe1a4d068e3b0d9f281e0aa678b.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Register ActionConfig
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/f2/f2212bb0eb4b20bfc413c6c79e0708f508456265.js" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\cb\cbc5085c837f49402d8c5457a7162d43386b78e9.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\cb\cbc5085c837f49402d8c5457a7162d43386b78e9.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Register JoystickCtrl
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/cb/cbc5085c837f49402d8c5457a7162d43386b78e9.js" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\5d\5d84669312f29bfb25edc3e974f851c111e7e3c6.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\5d\5d84669312f29bfb25edc3e974f851c111e7e3c6.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Register ToastCtrl
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/5d/5d84669312f29bfb25edc3e974f851c111e7e3c6.js" loaded.
+2024-4-18 09:00:04-debug: D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\a6\a640012db9ab19e4c18e2653e5a0d867523973d7.js resolved to D:\MyCoding\Cosos\coinGame\temp\programming\packer-driver\targets\editor\chunks\a6\a640012db9ab19e4c18e2653e5a0d867523973d7.js is not in module cache!
+2024-4-18 09:00:04-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/a6/a640012db9ab19e4c18e2653e5a0d867523973d7.js" loaded.
+2024-4-18 09:00:04-debug: [[Executor]] Module "pack:///chunks/65/654ca6a8cf2986d952e8c444eb1f074fc885bcfa.js" loaded.
+2024-4-18 09:00:04-debug: web-mobile:(onAfterBundleInit) start...11%
+2024-4-18 09:00:04-debug: // ---- build task web-mobile：onAfterBundleInit ----
+2024-4-18 09:00:04-debug: // ---- build task web-mobile：onAfterBundleInit ---- (8ms)
+2024-4-18 09:00:04-debug: web-mobile:(onAfterBundleInit) in 8 ms ✓11%
+2024-4-18 09:00:04-debug: // ---- build task 查询 Asset Bundle ----
+2024-4-18 09:00:04-debug: 查询 Asset Bundle start11%
+2024-4-18 09:00:04-debug: Init bundle root assets start...11%
+2024-4-18 09:00:04-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-4-18 09:00:04-debug: Init bundle root assets success...11%
+2024-4-18 09:00:04-debug: Init bundle share assets start...11%
+2024-4-18 09:00:04-debug: Init bundle share assets success...11%
+2024-4-18 09:00:04-debug: handle json group in bundle internal
+2024-4-18 09:00:04-debug: handle json group in bundle internal success
+2024-4-18 09:00:04-debug: handle json group in bundle main
+2024-4-18 09:00:04-debug: handle json group in bundle Bundle1
+2024-4-18 09:00:04-debug: init image compress task 0 in bundle internal
+2024-4-18 09:00:04-debug: handle json group in bundle main success
+2024-4-18 09:00:04-debug: init image compress task 0 in bundle main
+2024-4-18 09:00:04-debug: handle json group in bundle Bundle1 success
+2024-4-18 09:00:04-debug: init image compress task 3 in bundle Bundle1
+2024-4-18 09:00:04-debug: // ---- build task 查询 Asset Bundle ---- (79ms)
+2024-4-18 09:00:04-debug: [Build Memory track]: 查询 Asset Bundle start:251.77MB, end 250.30MB, increase: -1501.89KB
+2024-4-18 09:00:04-debug: run build task 查询 Asset Bundle success in 79 ms √16%
+2024-4-18 09:00:04-debug: 查询 Asset Bundle start16%
+2024-4-18 09:00:04-debug: // ---- build task 查询 Asset Bundle ----
+2024-4-18 09:00:04-debug: // ---- build task 查询 Asset Bundle ---- (18ms)
+2024-4-18 09:00:04-debug: run build task 查询 Asset Bundle success in 18 ms √21%
+2024-4-18 09:00:04-debug: web-mobile:(onAfterBundleDataTask) start...21%
+2024-4-18 09:00:04-debug: [Build Memory track]: 查询 Asset Bundle start:250.33MB, end 250.39MB, increase: 66.72KB
+2024-4-18 09:00:04-debug: // ---- build task web-mobile：onAfterBundleDataTask ----
+2024-4-18 09:00:04-debug: // ---- build task web-mobile：onAfterBundleDataTask ---- (14ms)
+2024-4-18 09:00:04-debug: web-mobile:(onAfterBundleDataTask) in 14 ms ✓21%
+2024-4-18 09:00:04-debug: 打包脚本 start21%
+2024-4-18 09:00:04-debug: // ---- build task 打包脚本 ----
+2024-4-18 09:00:10-debug: Build script in bundle start21%
+2024-4-18 09:00:10-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2024-4-18 09:00:11-log: [build-script]enter sub process 14244, d:\ProgramData\cocos\editors\Creator\3.8.0\CocosCreator.exe,D:\ProgramData\cocos\editors\Creator\3.8.0\resources\app.asar\builtin\builder\static\sub-process-index
+2024-4-18 09:00:17-debug: Copy externalScripts success!
+2024-4-18 09:00:17-debug: excute-script over with build-script 7588ms
+2024-4-18 09:00:17-debug: Build script in bundle success21%
+2024-4-18 09:00:17-debug: Engine cache ({link(C:\Users\zemin\AppData\Local\Temp\CocosCreator\3.8.0\builder\engine\7efaa1f0aa6eb3fbd0881c0f4cb27743)}) does not exist.
+2024-4-18 09:00:17-log: Run build task(build-engine) in child, see: chrome://inspect/#devices
+2024-4-18 09:00:19-log: [build-engine]enter sub process 4656, d:\ProgramData\cocos\editors\Creator\3.8.0\CocosCreator.exe,D:\ProgramData\cocos\editors\Creator\3.8.0\resources\app.asar\builtin\builder\static\sub-process-index
+2024-4-18 09:00:21-log: [build-engine]Module source "internal-constants":function tryDefineGlobal (name, value) {    const _global = typeof window === 'undefined' ? global : window;    if (typeof _global[name] === 'undefined') {        return (_global[name] = value);    } else {        // eslint-disable-next-line @typescript-eslint/no-unsafe-return        return _global[name];    }}export const HTML5 = true;export const NATIVE = false;export const ANDROID = false;export const IOS = false;export const MAC = false;export const WINDOWS = false;export const LINUX = false;export const OHOS = false;export const OPEN_HARMONY = false;export const WECHAT = false;tryDefineGlobal('CC_WECHAT', false);export const WECHAT_MINI_PROGRAM = false;export const BAIDU = false;tryDefineGlobal('CC_BAIDU', false);export const XIAOMI = false;tryDefineGlobal('CC_XIAOMI', false);export const ALIPAY = false;tryDefineGlobal('CC_ALIPAY', false);export const TAOBAO = false;export const TAOBAO_MINIGAME = false;export const BYTEDANCE = false;tryDefineGlobal('CC_BYTEDANCE', false);export const OPPO = false;tryDefineGlobal('CC_OPPO', false);export const VIVO = false;tryDefineGlobal('CC_VIVO', false);export const HUAWEI = false;tryDefineGlobal('CC_HUAWEI', false);export const COCOSPLAY = false;tryDefineGlobal('CC_COCOSPLAY', false);export const QTT = false;tryDefineGlobal('CC_QTT', false);export const LINKSURE = false;tryDefineGlobal('CC_LINKSURE', false);export const EDITOR = false;tryDefineGlobal('CC_EDITOR', false);export const EDITOR_NOT_IN_PREVIEW = false;export const PREVIEW = false;tryDefineGlobal('CC_PREVIEW', false);export const BUILD = true;tryDefineGlobal('CC_BUILD', true);export const TEST = false;tryDefineGlobal('CC_TEST', false);export const DEBUG = false;tryDefineGlobal('CC_DEBUG', false);export const SERVER_MODE = false;export const DEV = false;tryDefineGlobal('CC_DEV', false);export const MINIGAME = false;tryDefineGlobal('CC_MINIGAME', false);export const RUNTIME_BASED = false;tryDefineGlobal('CC_RUNTIME_BASED', false);export const SUPPORT_JIT = true;tryDefineGlobal('CC_SUPPORT_JIT', true);export const JSB = false;tryDefineGlobal('CC_JSB', false);export const NOT_PACK_PHYSX_LIBS = false;export const NET_MODE = 0;export const WEBGPU = false;export const WASM_SUPPORT_MODE = 2;export const FORCE_BANNING_BULLET_WASM = false;export const CULL_ASM_JS_MODULE = false;export const WASM_FALLBACK = true;export const WASM_SUBPACKAGE = false;
+2024-4-18 09:00:21-log: [build-engine]Module source "cc":export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\2d.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\sorting.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\3d.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\animation.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\audio.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\base.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\gfx-webgl.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\primitive.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\profiler.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\skeletal-animation.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\tween.ts';export * from 'D:\\ProgramData\\cocos\\editors\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\ui.ts';
+2024-4-18 09:00:22-log: [build-engine]Redirect module internal:native to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\cocos\native-binding\impl.ts
+2024-4-18 09:00:22-log: [build-engine]Redirect module pal/screen-adapter to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\pal\screen-adapter\web\screen-adapter.ts
+2024-4-18 09:00:23-log: [build-engine]Redirect module pal/system-info to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\pal\system-info\web\system-info.ts
+2024-4-18 09:00:26-log: [build-engine]Redirect module pal/input to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\pal\input\web\index.ts
+2024-4-18 09:00:26-log: [build-engine]Redirect module pal/audio to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\pal\audio\web\player.ts
+2024-4-18 09:00:28-log: [build-engine]Redirect module pal/env to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\pal\env\web\env.ts
+2024-4-18 09:00:28-log: [build-engine]Redirect module pal/pacer to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\pal\pacer\pacer-web.ts
+2024-4-18 09:00:28-log: [build-engine]Redirect module pal/minigame to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\pal\minigame\non-minigame.ts
+2024-4-18 09:00:31-log: [build-engine]Redirect module D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\cocos\animation\marionette\runtime-exports.ts to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\cocos\animation\marionette\index-empty.ts
+2024-4-18 09:00:33-log: [build-engine]Redirect module D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\cocos\2d\renderer\native-2d.ts to D:\ProgramData\cocos\editors\Creator\3.8.0\resources\resources\3d\engine\cocos\2d\renderer\native-2d-empty.ts
+2024-4-18 09:00:41-log: [build-engine]==== Performance ===={"# BUILD":[19910.988399999973,516472072,617717024],"## generate module graph":[18361.832200000004,460249680,561500052],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId":[15.779200002201833,3584284,561463596],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId (async)":[27.429200001934078,4854160,561464136],"- plugin 1 (@cocos/ccbuild|module-overrides) - resolveId":[6.503500000049826,631944,561464588],"- plugin 2 (virtual) - resolveId":[20.83089999947697,4717856,561466464],"load modules":[76895.03189999855,3768785596,556974812],"- plugin 0 (@cocos/ccbuild|external-loader) - load":[6.317399999185,623340,556941284],"- plugin 0 (@cocos/ccbuild|external-loader) - load (async)":[6.18679999926826,1163964,556941772],"- plugin 1 (@cocos/ccbuild|module-overrides) - load":[6.162099999724887,297612,556942460],"- plugin 2 (virtual) - load":[1.5577000005869195,85460,556942856],"- plugin 5 (json) - transform":[3.8827000001328997,865292,556978528],"- plugin 6 (commonjs) - transform":[13.145999999833293,555120,556981712],"- plugin 7 (babel) - transform":[307.9011999996146,15750316,557015072],"generate ast":[445.35179999889806,-8952456,560317708],"analyse ast":[742.4702000005636,77335200,561458032],"- plugin 3 (ts-paths) - resolveId":[4.132000000332482,457012,561466876],"- plugin 4 (node-resolve) - resolveId":[29.721700001799036,2746548,561468016],"- plugin 4 (node-resolve) - resolveId (async)":[117460.40070000547,2278477044,561468456],"- plugin 4 (node-resolve) - load":[1.7022000007564202,89084,556943260],"- plugin 6 (commonjs) - load":[9.722200000716839,648980,556944720],"- plugin 7 (babel) - load":[264.06499999936204,5364656,556945116],"- plugin 7 (babel) - transform (async)":[12456.578200000222,338225972,559769844],"- plugin 6 (commonjs) - resolveId":[1.8998000000719912,67464,561468896],"- plugin 7 (babel) - resolveId":[1.0491999994264916,51620,561469300],"## sort modules":[137.53179999999702,7469560,568969916],"## mark included statements":[1411.5102999999654,48745316,617715476],"treeshaking pass 1":[745.6867000000202,41503120,610811932],"treeshaking pass 2":[211.70840000000317,5399656,616211832],"treeshaking pass 3":[108.97350000002189,456368,616668444],"treeshaking pass 4":[90.98729999997886,2390620,619059308],"treeshaking pass 5":[66.48070000001462,1721668,620781220],"treeshaking pass 6":[53.805499999958556,-2916820,617864644],"treeshaking pass 7":[44.95539999997709,3109332,620974220],"treeshaking pass 8":[43.48170000000391,-5624980,615349484],"treeshaking pass 9":[44.53639999998268,2365376,617715104]}====             ====
+2024-4-18 09:00:51-debug: excute-script over with build-engine 33907ms
+2024-4-18 09:00:51-debug: // ---- build task 打包脚本 ---- (47588ms)
+2024-4-18 09:00:51-debug: run build task 打包脚本 success in 47588 ms √26%
+2024-4-18 09:00:51-debug: [Build Memory track]: 打包脚本 start:250.56MB, end 293.55MB, increase: 42.99MB
+2024-4-18 09:00:51-debug: // ---- build task Build Assets ----
+2024-4-18 09:00:51-debug: Pack Images start26%
+2024-4-18 09:00:51-debug: Build Assets start26%
+2024-4-18 09:00:52-debug: remove spriteAtlas._uuid : {asset(04861ff0-b758-4fc6-8885-3b6d900a0819)}
+2024-4-18 09:00:52-debug: remove spriteAtlas._uuid : {asset(98c2c37d-dbae-44b9-9961-81020daaa70c)}
+2024-4-18 09:00:52-debug: remove spriteAtlas._uuid : {asset(dc3d1030-0323-4bcd-a894-104d82278412)}
+2024-4-18 09:00:52-debug: Pack Images success26%
+2024-4-18 09:00:52-debug: builder:pack-auto-atlas-image (180ms)
+2024-4-18 09:00:52-debug: Compress image start...26%
+2024-4-18 09:00:52-debug: Num of image compress task 3
+2024-4-18 09:00:52-debug: start compress astcD:\MyCoding\Cosos\coinGame\library\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pngD:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.astcastc_8x8
+2024-4-18 09:00:52-debug: astc compressed command: astcenc.exe -cl D:\MyCoding\Cosos\coinGame\library\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.png D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.astc 8x8 -medium
+2024-4-18 09:00:52-debug: start compress etcD:\MyCoding\Cosos\coinGame\library\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pngD:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pkmetc1_rgb
+2024-4-18 09:00:52-debug: etc compress command :  .\etcpack.exe D:\MyCoding\Cosos\coinGame\library\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.png D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a -c etc1 -s fast
+2024-4-18 09:00:52-debug: start compress pvr{"format":"pvrtc_4bits_rgb","src":"D:\\MyCoding\\Cosos\\coinGame\\library\\2a\\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.png","dest":"D:\\MyCoding\\Cosos\\coinGame\\temp\\builder\\CompressTexture\\2a\\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pvr","compressOptions":{"quality":"fast"},"uuid":"2ae5aea7-919f-4f30-951c-75ac6bfd6a73","mipmapFiles":[],"suffix":".pvr@85"}
+2024-4-18 09:00:52-debug: pvrtc compress command :  D:\ProgramData\cocos\editors\Creator\3.8.0\resources\tools\PVRTexTool_win32\PVRTexToolCLI.exe -i D:\MyCoding\Cosos\coinGame\library\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.png -o D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pvr -squarecanvas + -potcanvas + -q pvrtcfast -f PVRTC1_4_RGB,UBN,lRGB
+2024-4-18 09:00:52-log: [compress etc][malitc-1]Compressing. Output file: D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pkm
+2024-4-18 09:00:52-log: [compress pvrtc]Compressing...Saved texture to D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pvr
+2024-4-18 09:00:52-log: [compress astc]Source image============    Source:                     D:\MyCoding\Cosos\coinGame\library\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.png    Color profile:              LDR    Dimensions:                 2D, 80x80    Components:                 4Compressor settings===================    Color profile:              LDR linear    Block size:                 8x8    Bitrate:                    2.00 bpp    Radius mean/stdev:          0 texels    RGB power:                  1    RGB base weight:            1    RGB mean weight:            0    RGB stdev weight:           0    RGB mean/stdev mixing:      0    Alpha power:                1    Alpha base weight:          1    Alpha mean weight:          0    Alpha stdev weight:         0    RGB alpha scale weight:     0    R component weight:         1    G component weight:         1    B component weight:         1    A component weight:         1    Deblock artifact setting:   0    Partition cutoff:           3 partitions    Partition index cutoff:     26 partition ids    PSNR cutoff:                35.6826 dB    2.2+ partition cutoff:      1.2    3.2+ partition cutoff:      1.25    2 plane correlation cutoff: 0.65    Block mode centile cutoff:  76%    Max refinement cutoff:      3 iterations    Compressor thread count:    8Performance metrics===================    Total time:                  0.0234 s    Coding time:                 0.0096 s    Coding rate:                 0.6674 MT/s
+2024-4-18 09:00:52-debug: [compress pvrtc]Child process exit width code 0
+2024-4-18 09:00:52-log: compress pvrtc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pvr)}
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 2ae5aea7-919f-4f30-951c-75ac6bfd6a73
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 2ae5aea7-919f-4f30-951c-75ac6bfd6a73 success
+2024-4-18 09:00:52-debug: start compress pvr{"format":"pvrtc_4bits_rgb","src":"D:\\MyCoding\\Cosos\\coinGame\\library\\42\\42574235-3a5f-4f2b-95b1-5418c08c901d.png","dest":"D:\\MyCoding\\Cosos\\coinGame\\temp\\builder\\CompressTexture\\42\\42574235-3a5f-4f2b-95b1-5418c08c901d.pvr","compressOptions":{"quality":"fast"},"uuid":"42574235-3a5f-4f2b-95b1-5418c08c901d","mipmapFiles":[],"suffix":".pvr@85"}
+2024-4-18 09:00:52-debug: pvrtc compress command :  D:\ProgramData\cocos\editors\Creator\3.8.0\resources\tools\PVRTexTool_win32\PVRTexToolCLI.exe -i D:\MyCoding\Cosos\coinGame\library\42\42574235-3a5f-4f2b-95b1-5418c08c901d.png -o D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pvr -squarecanvas + -potcanvas + -q pvrtcfast -f PVRTC1_4_RGB,UBN,lRGB
+2024-4-18 09:00:52-log: Compress astc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.astc)}
+2024-4-18 09:00:52-debug: [compress astc]Child process exit width code 0
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 2ae5aea7-919f-4f30-951c-75ac6bfd6a73
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 2ae5aea7-919f-4f30-951c-75ac6bfd6a73 success
+2024-4-18 09:00:52-debug: start compress astcD:\MyCoding\Cosos\coinGame\library\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pngD:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.astcastc_8x8
+2024-4-18 09:00:52-debug: astc compressed command: astcenc.exe -cl D:\MyCoding\Cosos\coinGame\library\42\42574235-3a5f-4f2b-95b1-5418c08c901d.png D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.astc 8x8 -medium
+2024-4-18 09:00:52-log: [compress astc]Source image============    Source:                     D:\MyCoding\Cosos\coinGame\library\42\42574235-3a5f-4f2b-95b1-5418c08c901d.png    Color profile:              LDR    Dimensions:                 2D, 188x189    Components:                 4Compressor settings===================    Color profile:              LDR linear    Block size:                 8x8    Bitrate:                    2.00 bpp    Radius mean/stdev:          0 texels    RGB power:                  1    RGB base weight:            1    RGB mean weight:            0    RGB stdev weight:           0    RGB mean/stdev mixing:      0    Alpha power:                1    Alpha base weight:          1    Alpha mean weight:          0    Alpha stdev weight:         0    RGB alpha scale weight:     0    R component weight:         1    G component weight:         1    B component weight:         1    A component weight:         1    Deblock artifact setting:   0    Partition cutoff:           3 partitions    Partition index cutoff:     26 partition ids    PSNR cutoff:                35.6826 dB    2.2+ partition cutoff:      1.2    3.2+ partition cutoff:      1.25    2 plane correlation cutoff: 0.65    Block mode centile cutoff:  76%    Max refinement cutoff:      3 iterations    Compressor thread count:    8Performance metrics===================    Total time:                  0.0336 s    Coding time:                 0.0224 s    Coding rate:                 1.5859 MT/s
+2024-4-18 09:00:52-debug: [compress astc]Child process exit width code 0
+2024-4-18 09:00:52-log: Compress astc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.astc)}
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 42574235-3a5f-4f2b-95b1-5418c08c901d
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 42574235-3a5f-4f2b-95b1-5418c08c901d success
+2024-4-18 09:00:52-debug: start compress astcD:\MyCoding\Cosos\coinGame\library\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pngD:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.astcastc_8x8
+2024-4-18 09:00:52-debug: astc compressed command: astcenc.exe -cl D:\MyCoding\Cosos\coinGame\library\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.png D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.astc 8x8 -medium
+2024-4-18 09:00:52-log: [compress pvrtc]Compressing...Saved texture to D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pvr
+2024-4-18 09:00:52-debug: [compress pvrtc]Child process exit width code 0
+2024-4-18 09:00:52-log: compress pvrtc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pvr)}
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 42574235-3a5f-4f2b-95b1-5418c08c901d
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 42574235-3a5f-4f2b-95b1-5418c08c901d success
+2024-4-18 09:00:52-debug: start compress pvr{"format":"pvrtc_4bits_rgb","src":"D:\\MyCoding\\Cosos\\coinGame\\library\\8d\\8d32faea-cfec-4550-adc9-a793c7d5bbc2.png","dest":"D:\\MyCoding\\Cosos\\coinGame\\temp\\builder\\CompressTexture\\8d\\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pvr","compressOptions":{"quality":"fast"},"uuid":"8d32faea-cfec-4550-adc9-a793c7d5bbc2","mipmapFiles":[],"suffix":".pvr@85"}
+2024-4-18 09:00:52-debug: pvrtc compress command :  D:\ProgramData\cocos\editors\Creator\3.8.0\resources\tools\PVRTexTool_win32\PVRTexToolCLI.exe -i D:\MyCoding\Cosos\coinGame\library\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.png -o D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pvr -squarecanvas + -potcanvas + -q pvrtcfast -f PVRTC1_4_RGB,UBN,lRGB
+2024-4-18 09:00:52-log: [compress etc][malitc-4]Compression time: 2 ms
+2024-4-18 09:00:52-log: [compress etc][malitc-5]RMSE: 5.35887[malitc-6]PSNR: 38.3205[malitc-7]Perceptually weighted RMSE: 5.35887[malitc-8]Perceptual PSNR: 38.3205
+2024-4-18 09:00:52-debug: [compress etc]Child process exit width code 0
+2024-4-18 09:00:52-log: compress etc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\2a\2ae5aea7-919f-4f30-951c-75ac6bfd6a73.pkm)}
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 2ae5aea7-919f-4f30-951c-75ac6bfd6a73
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 2ae5aea7-919f-4f30-951c-75ac6bfd6a73 success
+2024-4-18 09:00:52-debug: start compress etcD:\MyCoding\Cosos\coinGame\library\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pngD:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pkmetc1_rgb
+2024-4-18 09:00:52-debug: etc compress command :  .\etcpack.exe D:\MyCoding\Cosos\coinGame\library\42\42574235-3a5f-4f2b-95b1-5418c08c901d.png D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42 -c etc1 -s fast
+2024-4-18 09:00:52-log: [compress astc]Source image============    Source:                     D:\MyCoding\Cosos\coinGame\library\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.png    Color profile:              LDR    Dimensions:                 2D, 164x59    Components:                 4Compressor settings===================    Color profile:              LDR linear    Block size:                 8x8    Bitrate:                    2.00 bpp    Radius mean/stdev:          0 texels    RGB power:                  1    RGB base weight:            1    RGB mean weight:            0    RGB stdev weight:           0    RGB mean/stdev mixing:      0    Alpha power:                1    Alpha base weight:          1    Alpha mean weight:          0    Alpha stdev weight:         0    RGB alpha scale weight:     0    R component weight:         1    G component weight:         1    B component weight:         1    A component weight:         1    Deblock artifact setting:   0    Partition cutoff:           3 partitions    Partition index cutoff:     26 partition ids    PSNR cutoff:                35.6826 dB    2.2+ partition cutoff:      1.2    3.2+ partition cutoff:      1.25    2 plane correlation cutoff: 0.65    Block mode centile cutoff:  76%    Max refinement cutoff:      3 iterations    Compressor thread count:    8Performance metrics===================    Total time:                  0.0233 s    Coding time:                 0.0121 s    Coding rate:                 0.7980 MT/s
+2024-4-18 09:00:52-debug: [compress astc]Child process exit width code 0
+2024-4-18 09:00:52-log: Compress astc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.astc)}
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 8d32faea-cfec-4550-adc9-a793c7d5bbc2
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 8d32faea-cfec-4550-adc9-a793c7d5bbc2 success
+2024-4-18 09:00:52-log: [compress etc][malitc-1]Compressing. Output file: D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pkm
+2024-4-18 09:00:52-log: [compress pvrtc]Compressing...Saved texture to D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pvr
+2024-4-18 09:00:52-log: compress pvrtc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pvr)}
+2024-4-18 09:00:52-debug: [compress pvrtc]Child process exit width code 0
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 8d32faea-cfec-4550-adc9-a793c7d5bbc2
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 8d32faea-cfec-4550-adc9-a793c7d5bbc2 success
+2024-4-18 09:00:52-log: [compress etc][malitc-4]Compression time: 6 ms
+2024-4-18 09:00:52-log: [compress etc][malitc-5]RMSE: 5.74618[malitc-6]PSNR: 37.7144[malitc-7]Perceptually weighted RMSE: 5.74618[malitc-8]Perceptual PSNR: 37.7144
+2024-4-18 09:00:52-debug: [compress etc]Child process exit width code 0
+2024-4-18 09:00:52-log: compress etc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\42\42574235-3a5f-4f2b-95b1-5418c08c901d.pkm)}
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 42574235-3a5f-4f2b-95b1-5418c08c901d success
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 42574235-3a5f-4f2b-95b1-5418c08c901d
+2024-4-18 09:00:52-debug: start compress etcD:\MyCoding\Cosos\coinGame\library\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pngD:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pkmetc1_rgb
+2024-4-18 09:00:52-debug: etc compress command :  .\etcpack.exe D:\MyCoding\Cosos\coinGame\library\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.png D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d -c etc1 -s fast
+2024-4-18 09:00:52-log: [compress etc][malitc-1]Compressing. Output file: D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pkm
+2024-4-18 09:00:52-log: [compress etc][malitc-4]Compression time: 2 ms
+2024-4-18 09:00:52-log: [compress etc][malitc-5]RMSE: 12.7557[malitc-6]PSNR: 30.788[malitc-7]Perceptually weighted RMSE: 9.39818[malitc-8]Perceptual PSNR: 33.4411
+2024-4-18 09:00:52-debug: [compress etc]Child process exit width code 0
+2024-4-18 09:00:52-log: compress etc success {link(D:\MyCoding\Cosos\coinGame\temp\builder\CompressTexture\8d\8d32faea-cfec-4550-adc9-a793c7d5bbc2.pkm)}
+2024-4-18 09:00:52-debug: Start merge mipmaps file of asset 8d32faea-cfec-4550-adc9-a793c7d5bbc2
+2024-4-18 09:00:52-debug: Merge mipmaps file of asset 8d32faea-cfec-4550-adc9-a793c7d5bbc2 success
+2024-4-18 09:00:52-debug: builder:compress-texture (770ms)
+2024-4-18 09:00:52-debug: Num of sorted image asset: 3
+2024-4-18 09:00:52-debug: Ouput asset in bundles start26%
+2024-4-18 09:00:52-debug: Compress image success...26%
+2024-4-18 09:00:52-debug: Handle all json groups in bundle internal
+2024-4-18 09:00:52-debug: handle json group
+2024-4-18 09:00:52-debug: Handle all json groups in bundle main
+2024-4-18 09:00:52-debug: handle json group
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-alpha-test-material.mtl)})
+2024-4-18 09:00:52-debug: Handle all json groups in bundle Bundle1
+2024-4-18 09:00:52-debug: handle json group
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/stylized_coin/coin.mtl)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-clear-stencil.mtl)})
+2024-4-18 09:00:52-debug: Json group(0ab74d9d0) compile success，json number: 6
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-effect-material.mtl)})
+2024-4-18 09:00:52-debug: Json group(02bdfb444) compile success，json number: 6
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-material.mtl)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/3d/plane.mtl)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-alpha-sep-material.mtl)})
+2024-4-18 09:00:52-debug: Json group(0dec81510) compile success，json number: 6
+2024-4-18 09:00:52-debug: handle single json
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-base-material.mtl)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-material.mtl)})
+2024-4-18 09:00:52-debug: Json group(075202bb0) compile success，json number: 6
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-graphics-material.mtl)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-alpha-sep-material.mtl)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-material.mtl)})
+2024-4-18 09:00:52-debug: Json group(0c1f1a6b8) compile success，json number: 6
+2024-4-18 09:00:52-debug: handle single json
+2024-4-18 09:00:52-debug: Json group(0cec260f7) compile success，json number: 6
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/physics/default-physics-material.pmtl)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+2024-4-18 09:00:52-debug: Json group(0e5a439df) compile success，json number: 6
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/ikun/mic.mtl)})
+2024-4-18 09:00:52-debug: Json group(0b09e6442) compile success，json number: 6
+2024-4-18 09:00:52-debug: Json group(0f8a9f690) compile success，json number: 6
+2024-4-18 09:00:52-debug: Json group(04af64ec0) compile success，json number: 6
+2024-4-18 09:00:52-debug: handle single json
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/3d/Floor.png)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/UI/toast.png)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/ikun/toufa.png)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Bundles/Bundle1/Preload/Clips/btn.mp3)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Bundles/Bundle1/Preload/Clips/bgm.mp3)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/ikun/shenti.png)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/stylized_coin/textures/Material_baseColor.jpeg)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/ikun/yifu.png)})
+2024-4-18 09:00:52-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/ikun/lanqiu.png)})
+2024-4-18 09:00:53-debug: Output asset in bundles success26%
+2024-4-18 09:00:53-debug: // ---- build task Build Assets ---- (1187ms)
+2024-4-18 09:00:53-debug: run build task Build Assets success in 1187 ms √31%
+2024-4-18 09:00:53-debug: [Build Memory track]: Build Assets start:293.57MB, end 300.82MB, increase: 7.25MB
+2024-4-18 09:00:53-debug: 给所有的资源加上 MD5 后缀 start31%
+2024-4-18 09:00:53-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2024-4-18 09:00:53-debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (12ms)
+2024-4-18 09:00:53-debug: run build task 给所有的资源加上 MD5 后缀 success in 12 ms √36%
+2024-4-18 09:00:53-debug: [Build Memory track]: 给所有的资源加上 MD5 后缀 start:300.89MB, end 300.94MB, increase: 55.64KB
+2024-4-18 09:00:53-debug: // ---- build task 查询 Asset Bundle ----
+2024-4-18 09:00:53-debug: 查询 Asset Bundle start36%
+2024-4-18 09:00:53-debug: Output asset in bundles start36%
+2024-4-18 09:00:53-debug: compress config of bundle internal...
+2024-4-18 09:00:53-debug: compress config of bundle internal success
+2024-4-18 09:00:53-debug: ouput config of bundle internal
+2024-4-18 09:00:53-debug: output config of bundle internal success
+2024-4-18 09:00:53-debug: compress config of bundle main...
+2024-4-18 09:00:53-debug: compress config of bundle main success
+2024-4-18 09:00:53-debug: ouput config of bundle main
+2024-4-18 09:00:53-debug: output config of bundle main success
+2024-4-18 09:00:53-debug: compress config of bundle Bundle1 success
+2024-4-18 09:00:53-debug: compress config of bundle Bundle1...
+2024-4-18 09:00:53-debug: ouput config of bundle Bundle1
+2024-4-18 09:00:53-debug: output config of bundle Bundle1 success
+2024-4-18 09:00:53-debug: Output asset in bundles success36%
+2024-4-18 09:00:53-debug: // ---- build task 查询 Asset Bundle ---- (31ms)
+2024-4-18 09:00:53-debug: run build task 查询 Asset Bundle success in 31 ms √41%
+2024-4-18 09:00:53-debug: [Build Memory track]: 查询 Asset Bundle start:300.97MB, end 295.42MB, increase: -5683.21KB
+2024-4-18 09:00:53-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-4-18 09:00:53-debug: 整理部分构建选项内数据到 settings.json start41%
+2024-4-18 09:00:53-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (13ms)
+2024-4-18 09:00:53-debug: run build task 整理部分构建选项内数据到 settings.json success in 13 ms √43%
+2024-4-18 09:00:53-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:295.44MB, end 295.50MB, increase: 54.77KB
+2024-4-18 09:00:53-debug: 填充脚本数据到 settings.json start43%
+2024-4-18 09:00:53-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-4-18 09:00:53-debug: // ---- build task 填充脚本数据到 settings.json ---- (13ms)
+2024-4-18 09:00:53-debug: run build task 填充脚本数据到 settings.json success in 13 ms √44%
+2024-4-18 09:00:53-debug: 整理部分构建选项内数据到 settings.json start44%
+2024-4-18 09:00:53-debug: [Build Memory track]: 填充脚本数据到 settings.json start:295.52MB, end 295.57MB, increase: 55.99KB
+2024-4-18 09:00:53-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-4-18 09:00:53-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (15ms)
+2024-4-18 09:00:53-debug: run build task 整理部分构建选项内数据到 settings.json success in 15 ms √46%
+2024-4-18 09:00:53-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:295.60MB, end 295.70MB, increase: 103.10KB
+2024-4-18 09:00:53-debug: // ---- build task web-mobile：onBeforeCompressSettings ----
+2024-4-18 09:00:53-debug: web-mobile:(onBeforeCompressSettings) start...46%
+2024-4-18 09:00:53-debug: // ---- build task web-mobile：onBeforeCompressSettings ---- (13ms)
+2024-4-18 09:00:53-debug: web-mobile:(onBeforeCompressSettings) in 13 ms ✓48%
+2024-4-18 09:00:53-debug: cocos-service:(onBeforeCompressSettings) start...48%
+2024-4-18 09:00:53-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2024-4-18 09:00:53-debug: cocos-service:(onBeforeCompressSettings) in 158 ms ✓51%
+2024-4-18 09:00:53-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (158ms)
+2024-4-18 09:00:53-debug: 保存 settings.json start51%
+2024-4-18 09:00:53-debug: // ---- build task 保存 settings.json ----
+2024-4-18 09:00:53-debug: // ---- build task 保存 settings.json ---- (16ms)
+2024-4-18 09:00:53-debug: run build task 保存 settings.json success in 16 ms √53%
+2024-4-18 09:00:53-debug: [Build Memory track]: 保存 settings.json start:295.89MB, end 296.04MB, increase: 147.92KB
+2024-4-18 09:00:53-debug: 整理静态模板文件 start53%
+2024-4-18 09:00:53-debug: // ---- build task 整理静态模板文件 ----
+2024-4-18 09:00:53-debug: run build task 整理静态模板文件 success in 53 ms √56%
+2024-4-18 09:00:53-debug: // ---- build task 整理静态模板文件 ---- (53ms)
+2024-4-18 09:00:53-debug: [Build Memory track]: 整理静态模板文件 start:296.06MB, end 299.21MB, increase: 3.15MB
+2024-4-18 09:00:53-debug: cocos-service:(onAfterCompressSettings) start...56%
+2024-4-18 09:00:53-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2024-4-18 09:00:53-debug: cocos-service:(onAfterCompressSettings) in 130 ms ✓58%
+2024-4-18 09:00:53-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (130ms)
+2024-4-18 09:00:53-debug: // ---- build task web-mobile：onAfterBuild ----
+2024-4-18 09:00:53-debug: web-mobile:(onAfterBuild) start...58%
+2024-4-18 09:00:53-debug: // ---- build task web-mobile：onAfterBuild ---- (38ms)
+2024-4-18 09:00:53-debug: cocos-service:(onAfterBuild) start...60%
+2024-4-18 09:00:53-debug: web-mobile:(onAfterBuild) in 38 ms ✓60%
+2024-4-18 09:00:53-debug: // ---- build task cocos-service：onAfterBuild ----
+2024-4-18 09:00:53-debug: // ---- build task cocos-service：onAfterBuild ---- (144ms)
+2024-4-18 09:00:53-log: Asset DB is resume!
+2024-4-18 09:00:53-debug: cocos-service:(onAfterBuild) in 144 ms ✓62%
+2024-4-18 09:00:53-debug: builder:build-project-total (50369ms)
+2024-4-18 09:00:53-debug: build success in 50369 ms!
+2024-4-18 09:00:53-debug: [Build Memory track]: builder:build-project-total start:247.17MB, end 298.96MB, increase: 51.78MB
+2024-4-18 09:00:53-debug: Stop record console. {file(D:\MyCoding\Cosos\coinGame\temp\builder\log\web-mobile2024-4-18 09-00.log)}
+2024-4-18 09:00:53-debug: ================================ build Task (web-mobile) Finished in (50444)ms ================================
+2024-4-18 09:00:57-log: [task:run]: init options success, 10%
+2024-4-18 09:00:57-debug: // ---- builder:run-build-stage-run ----
+2024-4-18 09:00:57-debug: Start record console... {file(D:\MyCoding\Cosos\coinGame\temp\builder\log\web-mobile2024-4-18 09-00.log)}
+2024-4-18 09:00:57-log: [task:run]: web-mobile:(run) start..., 10%
+2024-4-18 09:00:57-debug: // ---- build task web-mobile：run ----
+2024-4-18 09:00:57-log: [task:run]: web-mobile:(run) in 15 ms ✓, 23.333333333333332%
+2024-4-18 09:00:57-debug: // ---- build task web-mobile：run ---- (15ms)
+2024-4-18 09:00:57-debug: // ---- builder:run-build-stage-run ---- (28ms)
+2024-4-18 09:00:57-debug: [Build Memory track]: builder:build-stage-total run start:296.45MB, end 296.63MB, increase: 191.80KB
+2024-4-18 09:00:57-log: [task:run]: success!
+2024-4-18 09:00:57-debug: Stop record console. {file(D:\MyCoding\Cosos\coinGame\temp\builder\log\web-mobile2024-4-18 09-00.log)}
+2024-4-18 09:01:59-debug: refresh db internal success
+2024-4-18 09:01:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-4-18 09:01:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-4-18 09:01:59-debug: refresh db assets success
+2024-4-18 09:01:59-debug: asset-db:refresh-all-database (142ms)
+2024-4-18 09:01:59-debug: asset-db-hook-engine-extends-afterRefresh (2ms)

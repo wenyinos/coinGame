@@ -1,0 +1,790 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles": {
+      "time": 1713364906056.5642,
+      "uuid": "25c68ead-ae77-42b8-95f8-cce3658f2e34"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res": {
+      "time": 1713364906133.2002,
+      "uuid": "0e75ae5b-da7f-4a6d-a3c8-fdcce2f1cd01"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts": {
+      "time": 1713364906148.5173,
+      "uuid": "1d417d61-5905-4957-b23d-7355bbcb601d"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1": {
+      "time": 1713364906057.528,
+      "uuid": "4afea2ca-8cd2-4abc-b730-17527c4ef79e"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\3d": {
+      "time": 1713364906079.7925,
+      "uuid": "75ce48ce-b557-4082-847b-a766d1f0e742"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun": {
+      "time": 1713364906118.5435,
+      "uuid": "62fb9ff7-09f1-445f-95b7-82d137ae36bb"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading": {
+      "time": 1713364906128.225,
+      "uuid": "87e3bde2-6b29-49dc-a6b1-e7234c8663c9"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\prefabs": {
+      "time": 1713364906129.261,
+      "uuid": "925eb495-318a-4def-a820-43bc28a1bebd"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader": {
+      "time": 1713364906132.29,
+      "uuid": "67a99669-965d-49b7-ab82-ddea3ec4adc0"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin": {
+      "time": 1713364906136.3335,
+      "uuid": "26a82e96-f023-43b2-b9f6-77637be69adb"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI": {
+      "time": 1713364906093.235,
+      "uuid": "c6fc622b-5b50-4d6c-8b6b-e5811b395ae5"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\coin": {
+      "time": 1713364906141.7207,
+      "uuid": "d5a1b640-57f0-457d-a53f-b1d794eb734d"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat": {
+      "time": 1713364906142.912,
+      "uuid": "237e4df8-3741-4a98-ad6d-c24bd32124fd"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame": {
+      "time": 1713364906148.5173,
+      "uuid": "47c0365c-0214-4d1c-b609-59cf64a27424"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\sdks": {
+      "time": 1713364906148.5173,
+      "uuid": "eb1a60a5-907e-46a6-aad1-62f7cd536f37"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view": {
+      "time": 1713364906148.5173,
+      "uuid": "c154a79d-f564-471c-a838-7a1cb47b3c83"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload": {
+      "time": 1713364906065.4958,
+      "uuid": "2ee6adc0-7e14-4420-a27f-63580f7551da"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx": {
+      "time": 1713364906109.797,
+      "uuid": "b5b62ebd-dc71-45e8-a3b0-bc4fa4195bba"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun": {
+      "time": 1713401968424.417,
+      "uuid": "40e38566-da27-4072-b303-d902f7241647"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\textures": {
+      "time": 1713364906138.3286,
+      "uuid": "555b6584-005f-4340-8b8b-720a4948edac"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins": {
+      "time": 1713364906084.1428,
+      "uuid": "abe8f553-a087-48c9-8e5c-975dadb088b2"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick": {
+      "time": 1713364906092.1836,
+      "uuid": "7fca6018-8e1a-4891-960f-4a7faafca976"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl": {
+      "time": 1713364906145.4163,
+      "uuid": "a29070ac-d6d6-4f5e-9a47-767adbb72f98"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\input": {
+      "time": 1713364906148.5173,
+      "uuid": "dbc7a55e-477d-47e6-a204-7dbb0ea3ff03"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\managers": {
+      "time": 1713364906148.5173,
+      "uuid": "9f8f83c6-2bc1-4dab-98fd-be7feab77075"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Clips": {
+      "time": 1713364906064.4993,
+      "uuid": "72305373-4473-4f26-84bf-78eefea86052"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs": {
+      "time": 1713364906073.4253,
+      "uuid": "141c3a44-ad6b-490b-a84a-3d60d9e0e9f3"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader\\glsl-noise-simplex-3d.chunk": {
+      "time": 1713364906132.29,
+      "uuid": "5550cfff-1b64-44d0-b87c-d58821e3b273"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader\\Blinn-Phong-GPT.effect": {
+      "time": 1713364906130.2822,
+      "uuid": "26d250a3-731a-4886-a39d-4464727e18e9"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader\\HalfLambert.effect": {
+      "time": 1713364906131.2937,
+      "uuid": "3c7cb8ea-e0ef-4740-8d67-b707061efdb5"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\LoadCtrl.ts": {
+      "time": 1713364906139.197,
+      "uuid": "91714f8b-11b3-45ab-9056-754f4fb252ce"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\Main.ts": {
+      "time": 1713364906140.417,
+      "uuid": "d79d4856-e03e-4eb7-843a-10c7a0dd1570"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\TimeScale.ts": {
+      "time": 1713364906141.0564,
+      "uuid": "5cad54bb-837d-462d-927a-5799e6548550"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\coin\\CoinMgr.ts": {
+      "time": 1713364906141.7207,
+      "uuid": "6768ea32-d287-4b00-974b-827452aa006d"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\CommonUtils.ts": {
+      "time": 1713364906146.4148,
+      "uuid": "55194187-2543-4df8-8835-fda526c7b293"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\Enums.ts": {
+      "time": 1713364906147.4116,
+      "uuid": "39f4c079-9810-43f8-bd3e-c0630362f25e"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\FrameCore.ts": {
+      "time": 1713364906147.4116,
+      "uuid": "6de7c50b-42f6-4021-9ae5-8136ebb30838"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\Globals.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "9449fd69-e896-4ac3-afc5-7fd9b2a3cb99"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\sdks\\WechatSDK.d.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "4db837eb-4cd2-4789-92eb-e673aa360062"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\BaseView.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "29938578-4a53-4006-bde7-fad384b28cd1"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\CoinBarView.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "1a31335f-21a7-4361-b272-dcce17b9545c"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\CoinView.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "b389a2e5-1a10-4a76-b842-9bd4493f565e"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\KeyBindingView.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "771819a6-2b7e-4208-8c18-b2c934e4aa53"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\KeyConfigView.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "20024ea4-1ec3-4ced-bc78-e6063216554b"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\ToastView.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "bff51186-6b89-48db-8c93-9b0076f9e2c2"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl\\ActionConfig.ts": {
+      "time": 1713364906144.0166,
+      "uuid": "84c95a54-9485-4df6-a122-26ad7fabd945"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl\\CameraCtrl.ts": {
+      "time": 1713364906144.0166,
+      "uuid": "6be7df01-865a-4916-86ed-324c4c5ef55a"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl\\PlayerCtrl.ts": {
+      "time": 1713364906145.4163,
+      "uuid": "a9929c4c-2f9a-4897-ae9a-eed227cb3ad6"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\input\\InputCtrl.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "5c6d0e06-2a1b-4885-97ce-c6dae5a71413"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\input\\JoystickCtrl.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "0df00e47-7821-476c-b81c-9b0b71e902f6"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\managers\\ResMgr.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "9d1933b3-a781-4317-8a30-38135e35cef6"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\managers\\SoundMgr.ts": {
+      "time": 1713364906148.5173,
+      "uuid": "bf1290b9-ac47-48c8-a412-b53ef627c938"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles.meta": {
+      "time": 1713364906055.53
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res.meta": {
+      "time": 1713364906074.88
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts.meta": {
+      "time": 1713364906139.197
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1.meta": {
+      "time": 1713364906056.5642
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\3d.meta": {
+      "time": 1713364906075.9402
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun.meta": {
+      "time": 1713364906093.235
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading.meta": {
+      "time": 1713364906118.5435
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\prefabs.meta": {
+      "time": 1713364906128.225
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader.meta": {
+      "time": 1713364906130.2822
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin.meta": {
+      "time": 1713364906133.2002
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI.meta": {
+      "time": 1713364906080.989
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\coin.meta": {
+      "time": 1713364906141.7207
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat.meta": {
+      "time": 1713364906142.912
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame.meta": {
+      "time": 1713364906145.4163
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\sdks.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload.meta": {
+      "time": 1713364906057.528
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx.meta": {
+      "time": 1713364906094.5503
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun.meta": {
+      "time": 1713364906119.9148
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\textures.meta": {
+      "time": 1713364906136.3335
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins.meta": {
+      "time": 1713364906080.989
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick.meta": {
+      "time": 1713364906085.5977
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl.meta": {
+      "time": 1713364906142.912
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\input.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\managers.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Clips.meta": {
+      "time": 1713364906057.528
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs.meta": {
+      "time": 1713364906065.4958
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader\\glsl-noise-simplex-3d.chunk.meta": {
+      "time": 1713364906132.29
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\LoadCtrl.ts.meta": {
+      "time": 1713364906139.197
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\Main.ts.meta": {
+      "time": 1713364906140.417
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\TimeScale.ts.meta": {
+      "time": 1713364906141.0564
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\coin\\CoinMgr.ts.meta": {
+      "time": 1713364906141.7207
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\CommonUtils.ts.meta": {
+      "time": 1713364906146.4148
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\Enums.ts.meta": {
+      "time": 1713364906147.4116
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\sdks\\WechatSDK.d.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\FrameCore.ts.meta": {
+      "time": 1713364906147.4116
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader\\HalfLambert.effect.meta": {
+      "time": 1713364906131.2937
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\shader\\Blinn-Phong-GPT.effect.meta": {
+      "time": 1713364906130.2822
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\Globals.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\BaseView.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\CoinBarView.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\CoinView.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\KeyBindingView.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\KeyConfigView.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\view\\ToastView.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl\\ActionConfig.ts.meta": {
+      "time": 1713364906144.0166
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl\\CameraCtrl.ts.meta": {
+      "time": 1713364906145.0005
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\combat\\ctrl\\PlayerCtrl.ts.meta": {
+      "time": 1713364906145.4163
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\input\\InputCtrl.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\input\\JoystickCtrl.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\managers\\ResMgr.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\scripts\\frame\\managers\\SoundMgr.ts.meta": {
+      "time": 1713364906148.5173
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\game-scene.scene": {
+      "time": 1713364906074.88,
+      "uuid": "0809c820-010a-4dc6-9ac1-03b933e9d3be"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\3d\\Floor.png": {
+      "time": 1713364906078.371,
+      "uuid": "2648d340-5c08-49ca-a5fc-4a5d17451516"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\3d\\plane.mtl": {
+      "time": 1713364906079.7925,
+      "uuid": "957682c0-6192-436f-9414-dc81c7f7d5ad"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\ji@skin.FBX": {
+      "time": 1713364906111.5164,
+      "uuid": "d162576d-0335-4273-aff8-a8c1eaa56842"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\lanqiu.FBX": {
+      "time": 1713364906112.533,
+      "uuid": "9e749e23-1a4e-4579-a19f-c37cde7f0e7b"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\lanqiu.png": {
+      "time": 1713364906113.4634,
+      "uuid": "c9049722-64e1-47fb-a4bf-22a5feb9746f"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\mic.mtl": {
+      "time": 1713364906113.4634,
+      "uuid": "f1cc33a6-4229-4808-ad04-ca31ddd928f3"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\shenti.png": {
+      "time": 1713364906115.459,
+      "uuid": "9680b7cb-d1b9-473c-9df8-48f87f7f655c"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\toufa.png": {
+      "time": 1713364906116.4556,
+      "uuid": "8bd1fd19-ec49-42d0-81ac-9b8de4247534"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\yifu.png": {
+      "time": 1713364906118.5435,
+      "uuid": "c737268d-e7be-45a3-9d2e-386d83bc0d14"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\loginBG.jpg": {
+      "time": 1713401914033.5908,
+      "uuid": "330b1719-dfa4-4caf-93f8-1e01d96a338c"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\prefabs\\KeyBingView.prefab": {
+      "time": 1713364906129.261,
+      "uuid": "3acea105-6d0e-4d0c-9867-53fe87dfc6d6"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\Coin.fbx": {
+      "time": 1713364906133.2002,
+      "uuid": "34bbc05f-77b2-49ba-aae9-74b3591a10b4"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\coin.mtl": {
+      "time": 1713364906134.9272,
+      "uuid": "2d1d9e5e-5daf-4405-93e1-891cdc8783cc"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\license.txt": {
+      "time": 1713364906134.9272,
+      "uuid": "78db789f-3099-42b4-b79f-5232bcebe80d"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\toast.png": {
+      "time": 1713364906092.1836,
+      "uuid": "7c1de783-3582-44ff-bb95-8d23387ef1d7"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Basketball.fbx": {
+      "time": 1713364906095.5518,
+      "uuid": "4a9e0bb1-a3c8-48e0-a3e6-5e4f79bb8202"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Catwalk Walking.fbx": {
+      "time": 1713364906096.8652,
+      "uuid": "ed4b96c3-c8e6-41ef-8c54-fd9c815fc7b9"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Chicken Dance.fbx": {
+      "time": 1713364906099.1824,
+      "uuid": "3e0a2696-ffe2-4a42-b0ff-03bd8551f481"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Floating.fbx": {
+      "time": 1713364906101.5005,
+      "uuid": "cb580189-635d-4d47-9707-b44e6db0354a"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Happy Idle.fbx": {
+      "time": 1713364906103.1814,
+      "uuid": "8dca8690-65e3-4e32-b276-b88a65434303"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Rap.fbx": {
+      "time": 1713364906104.181,
+      "uuid": "005aeac9-bf14-44e6-9df9-3bcbc7a6f703"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Running Forward Flip.fbx": {
+      "time": 1713364906105.8682,
+      "uuid": "669261d0-a00a-44c6-a2c0-41907b2d1bb6"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Spinning.fbx": {
+      "time": 1713364906106.867,
+      "uuid": "373810ae-1e38-4015-b362-7b84570dfe94"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Swimming.fbx": {
+      "time": 1713364906108.1333,
+      "uuid": "3dd0e39d-aaee-4ffb-b9c4-a217491e414a"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Wave.fbx": {
+      "time": 1713364906109.132,
+      "uuid": "2f8a44e5-0621-41c4-88b7-ac6a43b1261a"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\1.png": {
+      "time": 1713364906119.9148,
+      "uuid": "02b18265-1f55-46c5-b0c5-0ca17d4c1f41"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\2.png": {
+      "time": 1713364906121.392,
+      "uuid": "bd9a1cac-b40c-46a5-ad5f-5bf72d270815"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\3.png": {
+      "time": 1713364906122.073,
+      "uuid": "be53c6c5-30f1-476b-a9ac-8dddbbbebe3f"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\4.png": {
+      "time": 1713364906122.8257,
+      "uuid": "242d8671-904b-4ce1-b13c-c3fdd754d1b5"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\animation.anim": {
+      "time": 1713364906122.8257,
+      "uuid": "3efb0f21-492b-48a9-b924-85f1bf664014"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\auto-atlas.pac": {
+      "time": 1713364906124.1025,
+      "uuid": "dc3d1030-0323-4bcd-a894-104d82278412"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\cadpa.png": {
+      "time": 1713364906124.1025,
+      "uuid": "7d7aa050-71be-4e32-b470-45b830efc061"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\loadbg.png": {
+      "time": 1713364906125.4382,
+      "uuid": "97462bbe-8ae2-4d0e-8bf0-6a15190e1468"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\loadfill.png": {
+      "time": 1713364906125.4382,
+      "uuid": "d19b167e-126e-43b4-b3c8-1adaabd482f5"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\other.png": {
+      "time": 1713401808394.2263,
+      "uuid": "04e76d61-7319-403e-a394-6b57083b5ca4"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\textures\\Material_baseColor.jpeg": {
+      "time": 1713364906138.3286,
+      "uuid": "ad731746-b98f-4726-a46c-c9495253c01a"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins\\auto-atlas.pac": {
+      "time": 1713364906081.9934,
+      "uuid": "04861ff0-b758-4fc6-8885-3b6d900a0819"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins\\bg.png": {
+      "time": 1713364906083.0884,
+      "uuid": "10f11eb3-af7d-4f1f-9f39-bb388bd3a545"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins\\coin.png": {
+      "time": 1713364906084.1428,
+      "uuid": "c5557264-c242-4748-8d74-294923b00510"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\auto-atlas.pac": {
+      "time": 1713364906087.63,
+      "uuid": "98c2c37d-dbae-44b9-9961-81020daaa70c"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\basketball.png": {
+      "time": 1713364906087.63,
+      "uuid": "cc63cd66-60a1-4ee5-8700-3b556d6142c2"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\config.png": {
+      "time": 1713364906089.0547,
+      "uuid": "f2f8950d-027c-49f5-acd5-112cb01cbf1e"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\dance.png": {
+      "time": 1713364906089.0547,
+      "uuid": "6237f475-203f-419d-a08b-ee9964b801f0"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\rap.png": {
+      "time": 1713364906090.1802,
+      "uuid": "45fef167-d83e-4780-bf21-d65f2a5d386f"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\roundIn.png": {
+      "time": 1713364906091.185,
+      "uuid": "2ae5aea7-919f-4f30-951c-75ac6bfd6a73"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\roundOut.png": {
+      "time": 1713364906092.1836,
+      "uuid": "42574235-3a5f-4f2b-95b1-5418c08c901d"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\Subtract.png": {
+      "time": 1713364906085.5977,
+      "uuid": "8d32faea-cfec-4550-adc9-a793c7d5bbc2"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Clips\\bgm.mp3": {
+      "time": 1713364906063.5034,
+      "uuid": "8c5487e0-d2a0-4cfb-9aaa-23ed8f348606"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Clips\\btn.mp3": {
+      "time": 1713364906064.4993,
+      "uuid": "8bf3f833-5043-448a-a322-9d7c89abdf7e"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\ActionView.prefab": {
+      "time": 1713364906065.9978,
+      "uuid": "cff239f5-3bdc-4534-842e-40fb29f504e3"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\Coin.prefab": {
+      "time": 1713364906066.9966,
+      "uuid": "0d001e53-6935-42f8-b2e0-89a1fb564e22"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\CoinBarView.prefab": {
+      "time": 1713364906067.9932,
+      "uuid": "082e5d3c-9148-443b-887d-1780a514ae4c"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\CoinView.prefab": {
+      "time": 1713364906068.9897,
+      "uuid": "f3e3c7b9-cbb7-4dcc-9b1c-04238aae26c4"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\ConfigView.prefab": {
+      "time": 1713364906069.9866,
+      "uuid": "8d71ba09-65e1-4c78-8d99-e4be799754bb"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\JoystickView.prefab": {
+      "time": 1713364906070.9832,
+      "uuid": "07b561e5-7d98-4f32-b50f-b774eb45c66b"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\Land.prefab": {
+      "time": 1713364906072.1555,
+      "uuid": "37fec4a7-806b-4bcf-ac41-fa561e9fd7c9"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\Player.prefab": {
+      "time": 1713364906072.1555,
+      "uuid": "89d67f2f-4f02-47cf-a1ff-46ee397d06c4"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\ToastView.prefab": {
+      "time": 1713364906073.4253,
+      "uuid": "5b69fafe-e9f4-4c26-ba44-aa2e710b32e3"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\3d\\plane.mtl.meta": {
+      "time": 1713364906079.7925
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\game-scene.scene.meta": {
+      "time": 1713364906074.88
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\mic.mtl.meta": {
+      "time": 1713364906114.4624
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\3d\\Floor.png.meta": {
+      "time": 1713364906078.371
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\lanqiu.png.meta": {
+      "time": 1713364906113.4634
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\toufa.png.meta": {
+      "time": 1713364906117.4521
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\yifu.png.meta": {
+      "time": 1713364906118.5435
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\prefabs\\KeyBingView.prefab.meta": {
+      "time": 1713364906129.261
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\shenti.png.meta": {
+      "time": 1713364906115.459
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\coin.mtl.meta": {
+      "time": 1713364906134.9272
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\license.txt.meta": {
+      "time": 1713364906136.0256
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\loginBG.jpg.meta": {
+      "time": 1713401968524.194
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\toast.png.meta": {
+      "time": 1713364906093.235
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\lanqiu.FBX.meta": {
+      "time": 1713364906112.533
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\Coin.fbx.meta": {
+      "time": 1713364906134.2024
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Catwalk Walking.fbx.meta": {
+      "time": 1713364906098.1836
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Basketball.fbx.meta": {
+      "time": 1713364906096.8652
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Chicken Dance.fbx.meta": {
+      "time": 1713364906099.1824
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Floating.fbx.meta": {
+      "time": 1713364906101.5005
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Happy Idle.fbx.meta": {
+      "time": 1713364906103.1814
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\ji@skin.FBX.meta": {
+      "time": 1713364906111.5164
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Rap.fbx.meta": {
+      "time": 1713364906105.1775
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Running Forward Flip.fbx.meta": {
+      "time": 1713364906105.8682
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Spinning.fbx.meta": {
+      "time": 1713364906106.867
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\1.png.meta": {
+      "time": 1713364906120.9136
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\2.png.meta": {
+      "time": 1713364906121.392
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\animation.anim.meta": {
+      "time": 1713364906122.8257
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\auto-atlas.pac.meta": {
+      "time": 1713364906124.1025
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Wave.fbx.meta": {
+      "time": 1713364906109.797
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\ikun\\fbx\\Swimming.fbx.meta": {
+      "time": 1713364906108.1333
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\3.png.meta": {
+      "time": 1713364906122.073
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\4.png.meta": {
+      "time": 1713364906122.8257
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\cadpa.png.meta": {
+      "time": 1713364906124.1025
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\loadfill.png.meta": {
+      "time": 1713364906126.4368
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins\\auto-atlas.pac.meta": {
+      "time": 1713364906081.9934
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\loadbg.png.meta": {
+      "time": 1713364906125.4382
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\stylized_coin\\textures\\Material_baseColor.jpeg.meta": {
+      "time": 1713364906138.3286
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\auto-atlas.pac.meta": {
+      "time": 1713364906087.63
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\other.png.meta": {
+      "time": 1713364906126.843
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins\\bg.png.meta": {
+      "time": 1713364906083.0884
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\Coins\\coin.png.meta": {
+      "time": 1713364906084.1428
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\basketball.png.meta": {
+      "time": 1713364906087.63
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\config.png.meta": {
+      "time": 1713364906089.0547
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\dance.png.meta": {
+      "time": 1713364906090.1802
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\rap.png.meta": {
+      "time": 1713364906091.185
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\roundIn.png.meta": {
+      "time": 1713364906091.185
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Clips\\bgm.mp3.meta": {
+      "time": 1713364906063.5034
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\Subtract.png.meta": {
+      "time": 1713364906086.6177
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\ActionView.prefab.meta": {
+      "time": 1713364906065.9978
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\Coin.prefab.meta": {
+      "time": 1713364906066.9966
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\CoinBarView.prefab.meta": {
+      "time": 1713364906067.9932
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Clips\\btn.mp3.meta": {
+      "time": 1713364906064.4993
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\UI\\joystick\\roundOut.png.meta": {
+      "time": 1713364906092.1836
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\ConfigView.prefab.meta": {
+      "time": 1713364906069.9866
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\CoinView.prefab.meta": {
+      "time": 1713364906068.9897
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\JoystickView.prefab.meta": {
+      "time": 1713364906070.9832
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\Land.prefab.meta": {
+      "time": 1713364906072.1555
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\Player.prefab.meta": {
+      "time": 1713364906073.4253
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\Bundles\\Bundle1\\Preload\\Prefabs\\ToastView.prefab.meta": {
+      "time": 1713364906073.4253
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\other.png~": {
+      "time": 1713364906126.843,
+      "uuid": "c1c92d8d-a8ec-410e-be38-d10148590bde"
+    },
+    "D:\\MyCoding\\Cosos\\coinGame\\assets\\res\\loading\\kun\\other.png~.meta": {
+      "time": 1713401968496.5466
+    }
+  },
+  "missing": {}
+}
