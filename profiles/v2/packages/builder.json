@@ -15,52 +15,6 @@
     "name": "ikun"
   },
   "BuildTaskManager": {
-    "taskMap": {
-      "1713402003297": {
-        "type": "build",
-        "id": "1713402003297",
-        "progress": 1,
-        "state": "success",
-        "stage": "run",
-        "message": "2024-4-18 09:00:57 run package D:\\MyCoding\\Cosos\\coinGame\\build\\web-mobile success!",
-        "options": {
-          "name": "reflection",
-          "server": "",
-          "platform": "web-mobile",
-          "buildPath": "project://build",
-          "debug": false,
-          "md5Cache": false,
-          "skipCompressTexture": false,
-          "sourceMaps": false,
-          "polyfills": {
-            "asyncFunctions": true
-          },
-          "experimentalEraseModules": false,
-          "startSceneAssetBundle": false,
-          "bundleConfigs": [],
-          "useBuiltinServer": false,
-          "mainBundleIsRemote": false,
-          "mainBundleCompressionType": "merge_dep",
-          "useSplashScreen": true,
-          "bundleCommonChunk": false,
-          "packAutoAtlas": true,
-          "startScene": "0809c820-010a-4dc6-9ac1-03b933e9d3be",
-          "outputName": "web-mobile",
-          "taskName": "web-mobile",
-          "scenes": [
-            {
-              "url": "db://assets/game-scene.scene",
-              "uuid": "0809c820-010a-4dc6-9ac1-03b933e9d3be"
-            }
-          ],
-          "packages": {},
-          "__version__": "1.3.6",
-          "buildMode": "normal",
-          "logDest": "project://temp/builder/log/web-mobile2024-4-18 09-00.log"
-        },
-        "time": "2024-4-18 09:00:03",
-        "dirty": false
-      }
-    }
+    "taskMap": {}
   }
 }
