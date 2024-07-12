@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 26728.20880000014,
+      "mTimestamp": 27603.22780000046,
       "chunkId": "24da15e04e82e6a8c330e4cf358e73f916919fc1",
       "imports": [
         {
@@ -262,11 +262,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 29621.83790000016,
+      "mTimestamp": 32178.74660000205,
       "chunkId": "12e724dbe33dfd7d7876001dc0966012c86e4aa5",
       "imports": [
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/LoadCtrl.ts",
+          "value": "file:///D:/MyCoding/CocosDashboardeditors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -275,12 +275,12 @@
             },
             "end": {
               "line": 4,
-              "column": 70
+              "column": 144
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/Main.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/LoadCtrl.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -289,12 +289,12 @@
             },
             "end": {
               "line": 5,
-              "column": 66
+              "column": 70
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/TimeScale.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/Main.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -303,12 +303,12 @@
             },
             "end": {
               "line": 6,
-              "column": 71
+              "column": 66
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/coin/CoinMgr.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/TimeScale.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -317,12 +317,12 @@
             },
             "end": {
               "line": 7,
-              "column": 74
+              "column": 71
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/combat/ctrl/ActionConfig.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/coin/CoinMgr.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -331,12 +331,12 @@
             },
             "end": {
               "line": 8,
-              "column": 86
+              "column": 74
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/combat/ctrl/CameraCtrl.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/combat/ctrl/ActionConfig.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -345,12 +345,12 @@
             },
             "end": {
               "line": 9,
-              "column": 84
+              "column": 86
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/combat/ctrl/PlayerCtrl.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/combat/ctrl/CameraCtrl.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -364,7 +364,7 @@
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/CommonUtils.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/combat/ctrl/PlayerCtrl.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
@@ -373,12 +373,12 @@
             },
             "end": {
               "line": 11,
-              "column": 79
+              "column": 84
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/Enums.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/CommonUtils.ts",
           "resolved": "__unresolved_8",
           "loc": {
             "start": {
@@ -387,12 +387,12 @@
             },
             "end": {
               "line": 12,
-              "column": 73
+              "column": 79
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/FrameCore.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/Enums.ts",
           "resolved": "__unresolved_9",
           "loc": {
             "start": {
@@ -401,12 +401,12 @@
             },
             "end": {
               "line": 13,
-              "column": 77
+              "column": 73
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/Globals.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/FrameCore.ts",
           "resolved": "__unresolved_10",
           "loc": {
             "start": {
@@ -415,12 +415,12 @@
             },
             "end": {
               "line": 14,
-              "column": 75
+              "column": 77
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/input/InputCtrl.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/Globals.ts",
           "resolved": "__unresolved_11",
           "loc": {
             "start": {
@@ -429,12 +429,12 @@
             },
             "end": {
               "line": 15,
-              "column": 83
+              "column": 75
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/input/JoystickCtrl.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/input/InputCtrl.ts",
           "resolved": "__unresolved_12",
           "loc": {
             "start": {
@@ -443,12 +443,12 @@
             },
             "end": {
               "line": 16,
-              "column": 86
+              "column": 83
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/managers/ResMgr.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/input/JoystickCtrl.ts",
           "resolved": "__unresolved_13",
           "loc": {
             "start": {
@@ -457,12 +457,12 @@
             },
             "end": {
               "line": 17,
-              "column": 83
+              "column": 86
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/managers/SoundMgr.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/managers/ResMgr.ts",
           "resolved": "__unresolved_14",
           "loc": {
             "start": {
@@ -471,12 +471,12 @@
             },
             "end": {
               "line": 18,
-              "column": 85
+              "column": 83
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/BaseView.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/frame/managers/SoundMgr.ts",
           "resolved": "__unresolved_15",
           "loc": {
             "start": {
@@ -485,12 +485,12 @@
             },
             "end": {
               "line": 19,
-              "column": 75
+              "column": 85
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/CoinBarView.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/BaseView.ts",
           "resolved": "__unresolved_16",
           "loc": {
             "start": {
@@ -499,12 +499,12 @@
             },
             "end": {
               "line": 20,
-              "column": 78
+              "column": 75
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/CoinView.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/CoinBarView.ts",
           "resolved": "__unresolved_17",
           "loc": {
             "start": {
@@ -513,12 +513,12 @@
             },
             "end": {
               "line": 21,
-              "column": 75
+              "column": 78
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/KeyBindingView.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/CoinView.ts",
           "resolved": "__unresolved_18",
           "loc": {
             "start": {
@@ -527,12 +527,12 @@
             },
             "end": {
               "line": 22,
-              "column": 81
+              "column": 75
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/KeyConfigView.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/KeyBindingView.ts",
           "resolved": "__unresolved_19",
           "loc": {
             "start": {
@@ -541,12 +541,12 @@
             },
             "end": {
               "line": 23,
-              "column": 80
+              "column": 81
             }
           }
         },
         {
-          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/ToastView.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/KeyConfigView.ts",
           "resolved": "__unresolved_20",
           "loc": {
             "start": {
@@ -555,12 +555,12 @@
             },
             "end": {
               "line": 24,
-              "column": 76
+              "column": 80
             }
           }
         },
         {
-          "value": "file:///D:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "value": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/ToastView.ts",
           "resolved": "__unresolved_21",
           "loc": {
             "start": {
@@ -569,13 +569,20 @@
             },
             "end": {
               "line": 25,
-              "column": 139
+              "column": 76
             }
           }
         }
       ],
       "type": "esm",
       "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/MyCoding/CocosDashboardeditors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
         {
           "resolved": {
             "type": "module",
@@ -722,13 +729,6 @@
             "url": "file:///D:/MyCoding/Cosos/coinGame/assets/scripts/view/ToastView.ts"
           },
           "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/ProgramData/cocos/editors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
-          },
-          "messages": []
         }
       ]
     },
@@ -838,7 +838,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1713405623317,
+      "mTimestamp": 1720792224362,
       "chunkId": "cceb4f795e6e637cc67c120b5b44ef3a584b486a",
       "imports": [],
       "type": "esm",
@@ -2747,6 +2747,58 @@
         "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
       },
       "chunkId": "1cd579e944d660aacbf29fde17f0cb0373c4c14d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 220
+            },
+            "end": {
+              "line": 1,
+              "column": 224
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/MyCoding/CocosDashboardeditors/Creator/3.8.0/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
+      "mTimestamp": {
+        "mtime": 1720791969299.026,
+        "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
+      },
+      "chunkId": "cde7285f40b7e7cf9ba1f578d959e0b79cd8a468",
       "imports": [
         {
           "value": "cc"

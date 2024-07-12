@@ -8,13 +8,59 @@
       "asyncFunctions": true
     },
     "buildPath": "project://build",
-    "outputName": "web-mobile",
+    "outputName": "web-desktop",
     "mainBundleCompressionType": "merge_dep",
-    "platform": "web-mobile",
+    "platform": "web-desktop",
     "useBuiltinServer": true,
-    "name": "ikun"
+    "name": "test-new"
   },
   "BuildTaskManager": {
-    "taskMap": {}
+    "taskMap": {
+      "1713406553043": {
+        "type": "build",
+        "id": "1713406553043",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "2024-7-12 21:53:57 run package D:\\MyCoding\\Cosos\\coinGame\\build\\web-desktop success!",
+        "options": {
+          "name": "reflection",
+          "server": "",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "0809c820-010a-4dc6-9ac1-03b933e9d3be",
+          "outputName": "web-desktop",
+          "taskName": "web-desktop",
+          "scenes": [
+            {
+              "url": "db://assets/game-scene.scene",
+              "uuid": "0809c820-010a-4dc6-9ac1-03b933e9d3be"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.6",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-desktop2024-4-18 10-15.log"
+        },
+        "time": "2024-4-18 10:15:53",
+        "dirty": false
+      }
+    }
   }
 }
